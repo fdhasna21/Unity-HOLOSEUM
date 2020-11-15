@@ -1,0 +1,2540 @@
+fileFormatVersion: 2
+guid: 58a0c99da7577b74fa73b4de0f3dc0fb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cage
+    100002: center
+    100004: geo 1
+    100006: globe
+    100008: group1
+    100010: group15
+    100012: group15 1
+    100014: group15 10
+    100016: group15 11
+    100018: group15 2
+    100020: group15 3
+    100022: group15 4
+    100024: group15 5
+    100026: group15 6
+    100028: group15 7
+    100030: group15 8
+    100032: group15 9
+    100034: group20_group1_group15_pDisc3
+    100036: group32
+    100038: group33
+    100040: group34
+    100042: group35
+    100044: group36
+    100046: group37
+    100048: group38
+    100050: group39
+    100052: group40
+    100054: group41
+    100056: group42
+    100058: group43
+    100060: group46
+    100062: group48
+    100064: group49
+    100066: group50
+    100068: group51
+    100070: group52
+    100072: holo
+    100074: joint1
+    100076: joint10
+    100078: joint100
+    100080: joint101
+    100082: joint102
+    100084: joint103
+    100086: joint104
+    100088: joint105
+    100090: joint106
+    100092: joint107
+    100094: joint108
+    100096: joint109
+    100098: joint11
+    100100: joint110
+    100102: joint111
+    100104: joint112
+    100106: joint113
+    100108: joint114
+    100110: joint115
+    100112: joint116
+    100114: joint117
+    100116: joint118
+    100118: joint119
+    100120: joint12
+    100122: joint120
+    100124: joint121
+    100126: joint122
+    100128: joint123
+    100130: joint124
+    100132: joint125
+    100134: joint126
+    100136: joint127
+    100138: joint128
+    100140: joint129
+    100142: joint13
+    100144: joint130
+    100146: joint131
+    100148: joint132
+    100150: joint133
+    100152: joint134
+    100154: joint135
+    100156: joint136
+    100158: joint137
+    100160: joint138
+    100162: joint139
+    100164: joint14
+    100166: joint140
+    100168: joint141
+    100170: joint142
+    100172: joint143
+    100174: joint144
+    100176: joint145
+    100178: joint146
+    100180: joint147
+    100182: joint148
+    100184: joint149
+    100186: joint15
+    100188: joint150
+    100190: joint151
+    100192: joint152
+    100194: joint153
+    100196: joint154
+    100198: joint155
+    100200: joint156
+    100202: joint157
+    100204: joint158
+    100206: joint159
+    100208: joint16
+    100210: joint160
+    100212: joint161
+    100214: joint162
+    100216: joint163
+    100218: joint164
+    100220: joint165
+    100222: joint166
+    100224: joint167
+    100226: joint168
+    100228: joint169
+    100230: joint17
+    100232: joint170
+    100234: joint171
+    100236: joint172
+    100238: joint173
+    100240: joint174
+    100242: joint175
+    100244: joint176
+    100246: joint177
+    100248: joint178
+    100250: joint179
+    100252: joint18
+    100254: joint180
+    100256: joint181
+    100258: joint182
+    100260: joint183
+    100262: joint184
+    100264: joint185
+    100266: joint186
+    100268: joint187
+    100270: joint188
+    100272: joint189
+    100274: joint19
+    100276: joint190
+    100278: joint191
+    100280: joint192
+    100282: joint2
+    100284: joint20
+    100286: joint21
+    100288: joint22
+    100290: joint23
+    100292: joint24
+    100294: joint25
+    100296: joint26
+    100298: joint27
+    100300: joint28
+    100302: joint29
+    100304: joint3
+    100306: joint30
+    100308: joint31
+    100310: joint32
+    100312: joint33
+    100314: joint34
+    100316: joint35
+    100318: joint36
+    100320: joint37
+    100322: joint38
+    100324: joint39
+    100326: joint4
+    100328: joint40
+    100330: joint41
+    100332: joint42
+    100334: joint43
+    100336: joint44
+    100338: joint45
+    100340: joint46
+    100342: joint47
+    100344: joint48
+    100346: joint49
+    100348: joint5
+    100350: joint50
+    100352: joint51
+    100354: joint52
+    100356: joint53
+    100358: joint54
+    100360: joint55
+    100362: joint56
+    100364: joint57
+    100366: joint58
+    100368: joint59
+    100370: joint6
+    100372: joint60
+    100374: joint61
+    100376: joint62
+    100378: joint63
+    100380: joint64
+    100382: joint65
+    100384: joint66
+    100386: joint67
+    100388: joint68
+    100390: joint69
+    100392: joint7
+    100394: joint70
+    100396: joint71
+    100398: joint72
+    100400: joint73
+    100402: joint74
+    100404: joint75
+    100406: joint76
+    100408: joint77
+    100410: joint78
+    100412: joint79
+    100414: joint8
+    100416: joint80
+    100418: joint81
+    100420: joint82
+    100422: joint83
+    100424: joint84
+    100426: joint85
+    100428: joint86
+    100430: joint87
+    100432: joint88
+    100434: joint89
+    100436: joint9
+    100438: joint90
+    100440: joint91
+    100442: joint92
+    100444: joint93
+    100446: joint94
+    100448: joint95
+    100450: joint96
+    100452: joint97
+    100454: joint98
+    100456: joint99
+    100458: MASH1_ReproMesh1
+    100460: MASH2_ReproMesh2
+    100462: MASH2_ReproMesh3
+    100464: MASH2_ReproMesh4
+    100466: MASH2_ReproMesh6
+    100468: MASH2_ReproMesh7
+    100470: MASH2_ReproMesh8
+    100472: pCone1
+    100474: pCylinder10
+    100476: pCylinder100
+    100478: pCylinder101
+    100480: pCylinder102
+    100482: pCylinder104
+    100484: pCylinder105
+    100486: pCylinder106
+    100488: pCylinder107
+    100490: pCylinder108
+    100492: pCylinder109
+    100494: pCylinder11
+    100496: pCylinder110
+    100498: pCylinder111
+    100500: pCylinder112
+    100502: pCylinder113
+    100504: pCylinder114
+    100506: pCylinder115
+    100508: pCylinder116
+    100510: pCylinder117
+    100512: pCylinder118
+    100514: pCylinder119
+    100516: pCylinder12
+    100518: pCylinder120
+    100520: pCylinder121
+    100522: pCylinder122
+    100524: pCylinder123
+    100526: pCylinder124
+    100528: pCylinder125
+    100530: pCylinder126
+    100532: pCylinder127
+    100534: pCylinder128
+    100536: pCylinder129
+    100538: pCylinder130
+    100540: pCylinder131
+    100542: pCylinder132
+    100544: pCylinder133
+    100546: pCylinder134
+    100548: pCylinder135
+    100550: pCylinder136
+    100552: pCylinder137
+    100554: pCylinder138
+    100556: pCylinder139
+    100558: pCylinder14
+    100560: pCylinder140
+    100562: pCylinder141
+    100564: pCylinder142
+    100566: pCylinder143
+    100568: pCylinder144
+    100570: pCylinder145
+    100572: pCylinder146
+    100574: pCylinder147
+    100576: pCylinder148
+    100578: pCylinder149
+    100580: pCylinder15
+    100582: pCylinder150
+    100584: pCylinder151
+    100586: pCylinder152
+    100588: pCylinder153
+    100590: pCylinder154
+    100592: pCylinder155
+    100594: pCylinder156
+    100596: pCylinder157
+    100598: pCylinder158
+    100600: pCylinder159
+    100602: pCylinder16
+    100604: pCylinder160
+    100606: pCylinder161
+    100608: pCylinder162
+    100610: pCylinder163
+    100612: pCylinder164
+    100614: pCylinder165
+    100616: pCylinder166
+    100618: pCylinder167
+    100620: pCylinder168
+    100622: pCylinder169
+    100624: pCylinder170
+    100626: pCylinder171
+    100628: pCylinder18
+    100630: pCylinder19
+    100632: pCylinder20
+    100634: pCylinder21
+    100636: pCylinder22
+    100638: pCylinder23
+    100640: pCylinder24
+    100642: pCylinder25
+    100644: pCylinder26
+    100646: pCylinder27
+    100648: pCylinder28
+    100650: pCylinder29
+    100652: pCylinder31
+    100654: pCylinder32
+    100656: pCylinder33
+    100658: pCylinder34
+    100660: pCylinder35
+    100662: pCylinder36
+    100664: pCylinder37
+    100666: pCylinder38
+    100668: pCylinder39
+    100670: pCylinder40
+    100672: pCylinder41
+    100674: pCylinder42
+    100676: pCylinder43
+    100678: pCylinder44
+    100680: pCylinder45
+    100682: pCylinder46
+    100684: pCylinder47
+    100686: pCylinder48
+    100688: pCylinder49
+    100690: pCylinder50
+    100692: pCylinder51
+    100694: pCylinder52
+    100696: pCylinder53
+    100698: pCylinder54
+    100700: pCylinder55
+    100702: pCylinder56
+    100704: pCylinder57
+    100706: pCylinder58
+    100708: pCylinder59
+    100710: pCylinder60
+    100712: pCylinder61
+    100714: pCylinder62
+    100716: pCylinder63
+    100718: pCylinder64
+    100720: pCylinder65
+    100722: pCylinder66
+    100724: pCylinder67
+    100726: pCylinder68
+    100728: pCylinder69
+    100730: pCylinder70
+    100732: pCylinder71
+    100734: pCylinder72
+    100736: pCylinder73
+    100738: pCylinder74
+    100740: pCylinder75
+    100742: pCylinder76
+    100744: pCylinder77
+    100746: pCylinder78
+    100748: pCylinder79
+    100750: pCylinder80
+    100752: pCylinder81
+    100754: pCylinder82
+    100756: pCylinder83
+    100758: pCylinder84
+    100760: pCylinder85
+    100762: pCylinder86
+    100764: pCylinder87
+    100766: pCylinder88
+    100768: pCylinder9
+    100770: pCylinder90
+    100772: pCylinder91
+    100774: pCylinder92
+    100776: pCylinder93
+    100778: pCylinder94
+    100780: pCylinder95
+    100782: pCylinder96
+    100784: pCylinder97
+    100786: pCylinder98
+    100788: pCylinder99
+    100790: pDisc2
+    100792: polySurface1
+    100794: polySurface10
+    100796: polySurface11
+    100798: polySurface12
+    100800: polySurface13
+    100802: polySurface14
+    100804: polySurface17
+    100806: polySurface18
+    100808: polySurface19
+    100810: polySurface2
+    100812: polySurface20
+    100814: polySurface21
+    100816: polySurface22
+    100818: polySurface23
+    100820: polySurface24
+    100822: polySurface25
+    100824: polySurface26
+    100826: polySurface28
+    100828: polySurface29
+    100830: polySurface3
+    100832: polySurface30
+    100834: polySurface31
+    100836: polySurface34
+    100838: polySurface35
+    100840: polySurface36
+    100842: polySurface37
+    100844: polySurface38
+    100846: polySurface39
+    100848: polySurface4
+    100850: polySurface40
+    100852: polySurface41
+    100854: polySurface42
+    100856: polySurface44
+    100858: polySurface45
+    100860: polySurface46
+    100862: polySurface47
+    100864: polySurface48
+    100866: polySurface49
+    100868: polySurface5
+    100870: polySurface50
+    100872: polySurface51
+    100874: polySurface52
+    100876: polySurface53
+    100878: polySurface54
+    100880: polySurface55
+    100882: polySurface56
+    100884: polySurface57
+    100886: polySurface58
+    100888: polySurface59
+    100890: polySurface6
+    100892: polySurface60
+    100894: polySurface7
+    100896: polySurface8
+    100898: polySurface9
+    100900: pPipe15
+    100902: pPipe16
+    100904: pPipe17
+    100906: pPipe18
+    100908: pPipe19
+    100910: pPipe20
+    100912: pPlane14
+    100914: pPlane15
+    100916: pPlane16
+    100918: pPlane17
+    100920: pPlane18
+    100922: pPlane19
+    100924: pPlane20
+    100926: pTorus10
+    100928: pTorus10 1
+    100930: pTorus10 10
+    100932: pTorus10 11
+    100934: pTorus10 2
+    100936: pTorus10 3
+    100938: pTorus10 4
+    100940: pTorus10 5
+    100942: pTorus10 6
+    100944: pTorus10 7
+    100946: pTorus10 8
+    100948: pTorus10 9
+    100950: pTorus11
+    100952: pTorus11 1
+    100954: pTorus11 10
+    100956: pTorus11 11
+    100958: pTorus11 2
+    100960: pTorus11 3
+    100962: pTorus11 4
+    100964: pTorus11 5
+    100966: pTorus11 6
+    100968: pTorus11 7
+    100970: pTorus11 8
+    100972: pTorus11 9
+    100974: pTorus12
+    100976: pTorus12 1
+    100978: pTorus12 10
+    100980: pTorus12 11
+    100982: pTorus12 2
+    100984: pTorus12 3
+    100986: pTorus12 4
+    100988: pTorus12 5
+    100990: pTorus12 6
+    100992: pTorus12 7
+    100994: pTorus12 8
+    100996: pTorus12 9
+    100998: pTorus13
+    101000: pTorus13 1
+    101002: pTorus13 10
+    101004: pTorus13 11
+    101006: pTorus13 2
+    101008: pTorus13 3
+    101010: pTorus13 4
+    101012: pTorus13 5
+    101014: pTorus13 6
+    101016: pTorus13 7
+    101018: pTorus13 8
+    101020: pTorus13 9
+    101022: pTorus14
+    101024: pTorus14 1
+    101026: pTorus14 10
+    101028: pTorus14 11
+    101030: pTorus14 2
+    101032: pTorus14 3
+    101034: pTorus14 4
+    101036: pTorus14 5
+    101038: pTorus14 6
+    101040: pTorus14 7
+    101042: pTorus14 8
+    101044: pTorus14 9
+    101046: pTorus15
+    101048: pTorus15 1
+    101050: pTorus15 10
+    101052: pTorus15 11
+    101054: pTorus15 2
+    101056: pTorus15 3
+    101058: pTorus15 4
+    101060: pTorus15 5
+    101062: pTorus15 6
+    101064: pTorus15 7
+    101066: pTorus15 8
+    101068: pTorus15 9
+    101070: pTorus16
+    101072: pTorus16 1
+    101074: pTorus16 10
+    101076: pTorus16 11
+    101078: pTorus16 2
+    101080: pTorus16 3
+    101082: pTorus16 4
+    101084: pTorus16 5
+    101086: pTorus16 6
+    101088: pTorus16 7
+    101090: pTorus16 8
+    101092: pTorus16 9
+    101094: pTorus17
+    101096: pTorus17 1
+    101098: pTorus17 10
+    101100: pTorus17 11
+    101102: pTorus17 2
+    101104: pTorus17 3
+    101106: pTorus17 4
+    101108: pTorus17 5
+    101110: pTorus17 6
+    101112: pTorus17 7
+    101114: pTorus17 8
+    101116: pTorus17 9
+    101118: pTorus18
+    101120: pTorus18 1
+    101122: pTorus18 10
+    101124: pTorus18 11
+    101126: pTorus18 2
+    101128: pTorus18 3
+    101130: pTorus18 4
+    101132: pTorus18 5
+    101134: pTorus18 6
+    101136: pTorus18 7
+    101138: pTorus18 8
+    101140: pTorus18 9
+    101142: pTorus19
+    101144: pTorus19 1
+    101146: pTorus19 10
+    101148: pTorus19 11
+    101150: pTorus19 2
+    101152: pTorus19 3
+    101154: pTorus19 4
+    101156: pTorus19 5
+    101158: pTorus19 6
+    101160: pTorus19 7
+    101162: pTorus19 8
+    101164: pTorus19 9
+    101166: pTorus2
+    101168: pTorus2 1
+    101170: pTorus2 10
+    101172: pTorus2 11
+    101174: pTorus2 2
+    101176: pTorus2 3
+    101178: pTorus2 4
+    101180: pTorus2 5
+    101182: pTorus2 6
+    101184: pTorus2 7
+    101186: pTorus2 8
+    101188: pTorus2 9
+    101190: pTorus20
+    101192: pTorus20 1
+    101194: pTorus20 10
+    101196: pTorus20 11
+    101198: pTorus20 2
+    101200: pTorus20 3
+    101202: pTorus20 4
+    101204: pTorus20 5
+    101206: pTorus20 6
+    101208: pTorus20 7
+    101210: pTorus20 8
+    101212: pTorus20 9
+    101214: pTorus25
+    101216: pTorus26
+    101218: pTorus28
+    101220: pTorus4
+    101222: pTorus4 1
+    101224: pTorus4 10
+    101226: pTorus4 11
+    101228: pTorus4 2
+    101230: pTorus4 3
+    101232: pTorus4 4
+    101234: pTorus4 5
+    101236: pTorus4 6
+    101238: pTorus4 7
+    101240: pTorus4 8
+    101242: pTorus4 9
+    101244: pTorus6
+    101246: pTorus6 1
+    101248: pTorus6 10
+    101250: pTorus6 11
+    101252: pTorus6 2
+    101254: pTorus6 3
+    101256: pTorus6 4
+    101258: pTorus6 5
+    101260: pTorus6 6
+    101262: pTorus6 7
+    101264: pTorus6 8
+    101266: pTorus6 9
+    101268: pTorus7
+    101270: pTorus7 1
+    101272: pTorus7 10
+    101274: pTorus7 11
+    101276: pTorus7 2
+    101278: pTorus7 3
+    101280: pTorus7 4
+    101282: pTorus7 5
+    101284: pTorus7 6
+    101286: pTorus7 7
+    101288: pTorus7 8
+    101290: pTorus7 9
+    101292: pTorus8
+    101294: pTorus8 1
+    101296: pTorus8 10
+    101298: pTorus8 11
+    101300: pTorus8 2
+    101302: pTorus8 3
+    101304: pTorus8 4
+    101306: pTorus8 5
+    101308: pTorus8 6
+    101310: pTorus8 7
+    101312: pTorus8 8
+    101314: pTorus8 9
+    101316: //RootNode
+    400000: cage
+    400002: center
+    400004: geo 1
+    400006: globe
+    400008: group1
+    400010: group15
+    400012: group15 1
+    400014: group15 10
+    400016: group15 11
+    400018: group15 2
+    400020: group15 3
+    400022: group15 4
+    400024: group15 5
+    400026: group15 6
+    400028: group15 7
+    400030: group15 8
+    400032: group15 9
+    400034: group20_group1_group15_pDisc3
+    400036: group32
+    400038: group33
+    400040: group34
+    400042: group35
+    400044: group36
+    400046: group37
+    400048: group38
+    400050: group39
+    400052: group40
+    400054: group41
+    400056: group42
+    400058: group43
+    400060: group46
+    400062: group48
+    400064: group49
+    400066: group50
+    400068: group51
+    400070: group52
+    400072: holo
+    400074: joint1
+    400076: joint10
+    400078: joint100
+    400080: joint101
+    400082: joint102
+    400084: joint103
+    400086: joint104
+    400088: joint105
+    400090: joint106
+    400092: joint107
+    400094: joint108
+    400096: joint109
+    400098: joint11
+    400100: joint110
+    400102: joint111
+    400104: joint112
+    400106: joint113
+    400108: joint114
+    400110: joint115
+    400112: joint116
+    400114: joint117
+    400116: joint118
+    400118: joint119
+    400120: joint12
+    400122: joint120
+    400124: joint121
+    400126: joint122
+    400128: joint123
+    400130: joint124
+    400132: joint125
+    400134: joint126
+    400136: joint127
+    400138: joint128
+    400140: joint129
+    400142: joint13
+    400144: joint130
+    400146: joint131
+    400148: joint132
+    400150: joint133
+    400152: joint134
+    400154: joint135
+    400156: joint136
+    400158: joint137
+    400160: joint138
+    400162: joint139
+    400164: joint14
+    400166: joint140
+    400168: joint141
+    400170: joint142
+    400172: joint143
+    400174: joint144
+    400176: joint145
+    400178: joint146
+    400180: joint147
+    400182: joint148
+    400184: joint149
+    400186: joint15
+    400188: joint150
+    400190: joint151
+    400192: joint152
+    400194: joint153
+    400196: joint154
+    400198: joint155
+    400200: joint156
+    400202: joint157
+    400204: joint158
+    400206: joint159
+    400208: joint16
+    400210: joint160
+    400212: joint161
+    400214: joint162
+    400216: joint163
+    400218: joint164
+    400220: joint165
+    400222: joint166
+    400224: joint167
+    400226: joint168
+    400228: joint169
+    400230: joint17
+    400232: joint170
+    400234: joint171
+    400236: joint172
+    400238: joint173
+    400240: joint174
+    400242: joint175
+    400244: joint176
+    400246: joint177
+    400248: joint178
+    400250: joint179
+    400252: joint18
+    400254: joint180
+    400256: joint181
+    400258: joint182
+    400260: joint183
+    400262: joint184
+    400264: joint185
+    400266: joint186
+    400268: joint187
+    400270: joint188
+    400272: joint189
+    400274: joint19
+    400276: joint190
+    400278: joint191
+    400280: joint192
+    400282: joint2
+    400284: joint20
+    400286: joint21
+    400288: joint22
+    400290: joint23
+    400292: joint24
+    400294: joint25
+    400296: joint26
+    400298: joint27
+    400300: joint28
+    400302: joint29
+    400304: joint3
+    400306: joint30
+    400308: joint31
+    400310: joint32
+    400312: joint33
+    400314: joint34
+    400316: joint35
+    400318: joint36
+    400320: joint37
+    400322: joint38
+    400324: joint39
+    400326: joint4
+    400328: joint40
+    400330: joint41
+    400332: joint42
+    400334: joint43
+    400336: joint44
+    400338: joint45
+    400340: joint46
+    400342: joint47
+    400344: joint48
+    400346: joint49
+    400348: joint5
+    400350: joint50
+    400352: joint51
+    400354: joint52
+    400356: joint53
+    400358: joint54
+    400360: joint55
+    400362: joint56
+    400364: joint57
+    400366: joint58
+    400368: joint59
+    400370: joint6
+    400372: joint60
+    400374: joint61
+    400376: joint62
+    400378: joint63
+    400380: joint64
+    400382: joint65
+    400384: joint66
+    400386: joint67
+    400388: joint68
+    400390: joint69
+    400392: joint7
+    400394: joint70
+    400396: joint71
+    400398: joint72
+    400400: joint73
+    400402: joint74
+    400404: joint75
+    400406: joint76
+    400408: joint77
+    400410: joint78
+    400412: joint79
+    400414: joint8
+    400416: joint80
+    400418: joint81
+    400420: joint82
+    400422: joint83
+    400424: joint84
+    400426: joint85
+    400428: joint86
+    400430: joint87
+    400432: joint88
+    400434: joint89
+    400436: joint9
+    400438: joint90
+    400440: joint91
+    400442: joint92
+    400444: joint93
+    400446: joint94
+    400448: joint95
+    400450: joint96
+    400452: joint97
+    400454: joint98
+    400456: joint99
+    400458: MASH1_ReproMesh1
+    400460: MASH2_ReproMesh2
+    400462: MASH2_ReproMesh3
+    400464: MASH2_ReproMesh4
+    400466: MASH2_ReproMesh6
+    400468: MASH2_ReproMesh7
+    400470: MASH2_ReproMesh8
+    400472: pCone1
+    400474: pCylinder10
+    400476: pCylinder100
+    400478: pCylinder101
+    400480: pCylinder102
+    400482: pCylinder104
+    400484: pCylinder105
+    400486: pCylinder106
+    400488: pCylinder107
+    400490: pCylinder108
+    400492: pCylinder109
+    400494: pCylinder11
+    400496: pCylinder110
+    400498: pCylinder111
+    400500: pCylinder112
+    400502: pCylinder113
+    400504: pCylinder114
+    400506: pCylinder115
+    400508: pCylinder116
+    400510: pCylinder117
+    400512: pCylinder118
+    400514: pCylinder119
+    400516: pCylinder12
+    400518: pCylinder120
+    400520: pCylinder121
+    400522: pCylinder122
+    400524: pCylinder123
+    400526: pCylinder124
+    400528: pCylinder125
+    400530: pCylinder126
+    400532: pCylinder127
+    400534: pCylinder128
+    400536: pCylinder129
+    400538: pCylinder130
+    400540: pCylinder131
+    400542: pCylinder132
+    400544: pCylinder133
+    400546: pCylinder134
+    400548: pCylinder135
+    400550: pCylinder136
+    400552: pCylinder137
+    400554: pCylinder138
+    400556: pCylinder139
+    400558: pCylinder14
+    400560: pCylinder140
+    400562: pCylinder141
+    400564: pCylinder142
+    400566: pCylinder143
+    400568: pCylinder144
+    400570: pCylinder145
+    400572: pCylinder146
+    400574: pCylinder147
+    400576: pCylinder148
+    400578: pCylinder149
+    400580: pCylinder15
+    400582: pCylinder150
+    400584: pCylinder151
+    400586: pCylinder152
+    400588: pCylinder153
+    400590: pCylinder154
+    400592: pCylinder155
+    400594: pCylinder156
+    400596: pCylinder157
+    400598: pCylinder158
+    400600: pCylinder159
+    400602: pCylinder16
+    400604: pCylinder160
+    400606: pCylinder161
+    400608: pCylinder162
+    400610: pCylinder163
+    400612: pCylinder164
+    400614: pCylinder165
+    400616: pCylinder166
+    400618: pCylinder167
+    400620: pCylinder168
+    400622: pCylinder169
+    400624: pCylinder170
+    400626: pCylinder171
+    400628: pCylinder18
+    400630: pCylinder19
+    400632: pCylinder20
+    400634: pCylinder21
+    400636: pCylinder22
+    400638: pCylinder23
+    400640: pCylinder24
+    400642: pCylinder25
+    400644: pCylinder26
+    400646: pCylinder27
+    400648: pCylinder28
+    400650: pCylinder29
+    400652: pCylinder31
+    400654: pCylinder32
+    400656: pCylinder33
+    400658: pCylinder34
+    400660: pCylinder35
+    400662: pCylinder36
+    400664: pCylinder37
+    400666: pCylinder38
+    400668: pCylinder39
+    400670: pCylinder40
+    400672: pCylinder41
+    400674: pCylinder42
+    400676: pCylinder43
+    400678: pCylinder44
+    400680: pCylinder45
+    400682: pCylinder46
+    400684: pCylinder47
+    400686: pCylinder48
+    400688: pCylinder49
+    400690: pCylinder50
+    400692: pCylinder51
+    400694: pCylinder52
+    400696: pCylinder53
+    400698: pCylinder54
+    400700: pCylinder55
+    400702: pCylinder56
+    400704: pCylinder57
+    400706: pCylinder58
+    400708: pCylinder59
+    400710: pCylinder60
+    400712: pCylinder61
+    400714: pCylinder62
+    400716: pCylinder63
+    400718: pCylinder64
+    400720: pCylinder65
+    400722: pCylinder66
+    400724: pCylinder67
+    400726: pCylinder68
+    400728: pCylinder69
+    400730: pCylinder70
+    400732: pCylinder71
+    400734: pCylinder72
+    400736: pCylinder73
+    400738: pCylinder74
+    400740: pCylinder75
+    400742: pCylinder76
+    400744: pCylinder77
+    400746: pCylinder78
+    400748: pCylinder79
+    400750: pCylinder80
+    400752: pCylinder81
+    400754: pCylinder82
+    400756: pCylinder83
+    400758: pCylinder84
+    400760: pCylinder85
+    400762: pCylinder86
+    400764: pCylinder87
+    400766: pCylinder88
+    400768: pCylinder9
+    400770: pCylinder90
+    400772: pCylinder91
+    400774: pCylinder92
+    400776: pCylinder93
+    400778: pCylinder94
+    400780: pCylinder95
+    400782: pCylinder96
+    400784: pCylinder97
+    400786: pCylinder98
+    400788: pCylinder99
+    400790: pDisc2
+    400792: polySurface1
+    400794: polySurface10
+    400796: polySurface11
+    400798: polySurface12
+    400800: polySurface13
+    400802: polySurface14
+    400804: polySurface17
+    400806: polySurface18
+    400808: polySurface19
+    400810: polySurface2
+    400812: polySurface20
+    400814: polySurface21
+    400816: polySurface22
+    400818: polySurface23
+    400820: polySurface24
+    400822: polySurface25
+    400824: polySurface26
+    400826: polySurface28
+    400828: polySurface29
+    400830: polySurface3
+    400832: polySurface30
+    400834: polySurface31
+    400836: polySurface34
+    400838: polySurface35
+    400840: polySurface36
+    400842: polySurface37
+    400844: polySurface38
+    400846: polySurface39
+    400848: polySurface4
+    400850: polySurface40
+    400852: polySurface41
+    400854: polySurface42
+    400856: polySurface44
+    400858: polySurface45
+    400860: polySurface46
+    400862: polySurface47
+    400864: polySurface48
+    400866: polySurface49
+    400868: polySurface5
+    400870: polySurface50
+    400872: polySurface51
+    400874: polySurface52
+    400876: polySurface53
+    400878: polySurface54
+    400880: polySurface55
+    400882: polySurface56
+    400884: polySurface57
+    400886: polySurface58
+    400888: polySurface59
+    400890: polySurface6
+    400892: polySurface60
+    400894: polySurface7
+    400896: polySurface8
+    400898: polySurface9
+    400900: pPipe15
+    400902: pPipe16
+    400904: pPipe17
+    400906: pPipe18
+    400908: pPipe19
+    400910: pPipe20
+    400912: pPlane14
+    400914: pPlane15
+    400916: pPlane16
+    400918: pPlane17
+    400920: pPlane18
+    400922: pPlane19
+    400924: pPlane20
+    400926: pTorus10
+    400928: pTorus10 1
+    400930: pTorus10 10
+    400932: pTorus10 11
+    400934: pTorus10 2
+    400936: pTorus10 3
+    400938: pTorus10 4
+    400940: pTorus10 5
+    400942: pTorus10 6
+    400944: pTorus10 7
+    400946: pTorus10 8
+    400948: pTorus10 9
+    400950: pTorus11
+    400952: pTorus11 1
+    400954: pTorus11 10
+    400956: pTorus11 11
+    400958: pTorus11 2
+    400960: pTorus11 3
+    400962: pTorus11 4
+    400964: pTorus11 5
+    400966: pTorus11 6
+    400968: pTorus11 7
+    400970: pTorus11 8
+    400972: pTorus11 9
+    400974: pTorus12
+    400976: pTorus12 1
+    400978: pTorus12 10
+    400980: pTorus12 11
+    400982: pTorus12 2
+    400984: pTorus12 3
+    400986: pTorus12 4
+    400988: pTorus12 5
+    400990: pTorus12 6
+    400992: pTorus12 7
+    400994: pTorus12 8
+    400996: pTorus12 9
+    400998: pTorus13
+    401000: pTorus13 1
+    401002: pTorus13 10
+    401004: pTorus13 11
+    401006: pTorus13 2
+    401008: pTorus13 3
+    401010: pTorus13 4
+    401012: pTorus13 5
+    401014: pTorus13 6
+    401016: pTorus13 7
+    401018: pTorus13 8
+    401020: pTorus13 9
+    401022: pTorus14
+    401024: pTorus14 1
+    401026: pTorus14 10
+    401028: pTorus14 11
+    401030: pTorus14 2
+    401032: pTorus14 3
+    401034: pTorus14 4
+    401036: pTorus14 5
+    401038: pTorus14 6
+    401040: pTorus14 7
+    401042: pTorus14 8
+    401044: pTorus14 9
+    401046: pTorus15
+    401048: pTorus15 1
+    401050: pTorus15 10
+    401052: pTorus15 11
+    401054: pTorus15 2
+    401056: pTorus15 3
+    401058: pTorus15 4
+    401060: pTorus15 5
+    401062: pTorus15 6
+    401064: pTorus15 7
+    401066: pTorus15 8
+    401068: pTorus15 9
+    401070: pTorus16
+    401072: pTorus16 1
+    401074: pTorus16 10
+    401076: pTorus16 11
+    401078: pTorus16 2
+    401080: pTorus16 3
+    401082: pTorus16 4
+    401084: pTorus16 5
+    401086: pTorus16 6
+    401088: pTorus16 7
+    401090: pTorus16 8
+    401092: pTorus16 9
+    401094: pTorus17
+    401096: pTorus17 1
+    401098: pTorus17 10
+    401100: pTorus17 11
+    401102: pTorus17 2
+    401104: pTorus17 3
+    401106: pTorus17 4
+    401108: pTorus17 5
+    401110: pTorus17 6
+    401112: pTorus17 7
+    401114: pTorus17 8
+    401116: pTorus17 9
+    401118: pTorus18
+    401120: pTorus18 1
+    401122: pTorus18 10
+    401124: pTorus18 11
+    401126: pTorus18 2
+    401128: pTorus18 3
+    401130: pTorus18 4
+    401132: pTorus18 5
+    401134: pTorus18 6
+    401136: pTorus18 7
+    401138: pTorus18 8
+    401140: pTorus18 9
+    401142: pTorus19
+    401144: pTorus19 1
+    401146: pTorus19 10
+    401148: pTorus19 11
+    401150: pTorus19 2
+    401152: pTorus19 3
+    401154: pTorus19 4
+    401156: pTorus19 5
+    401158: pTorus19 6
+    401160: pTorus19 7
+    401162: pTorus19 8
+    401164: pTorus19 9
+    401166: pTorus2
+    401168: pTorus2 1
+    401170: pTorus2 10
+    401172: pTorus2 11
+    401174: pTorus2 2
+    401176: pTorus2 3
+    401178: pTorus2 4
+    401180: pTorus2 5
+    401182: pTorus2 6
+    401184: pTorus2 7
+    401186: pTorus2 8
+    401188: pTorus2 9
+    401190: pTorus20
+    401192: pTorus20 1
+    401194: pTorus20 10
+    401196: pTorus20 11
+    401198: pTorus20 2
+    401200: pTorus20 3
+    401202: pTorus20 4
+    401204: pTorus20 5
+    401206: pTorus20 6
+    401208: pTorus20 7
+    401210: pTorus20 8
+    401212: pTorus20 9
+    401214: pTorus25
+    401216: pTorus26
+    401218: pTorus28
+    401220: pTorus4
+    401222: pTorus4 1
+    401224: pTorus4 10
+    401226: pTorus4 11
+    401228: pTorus4 2
+    401230: pTorus4 3
+    401232: pTorus4 4
+    401234: pTorus4 5
+    401236: pTorus4 6
+    401238: pTorus4 7
+    401240: pTorus4 8
+    401242: pTorus4 9
+    401244: pTorus6
+    401246: pTorus6 1
+    401248: pTorus6 10
+    401250: pTorus6 11
+    401252: pTorus6 2
+    401254: pTorus6 3
+    401256: pTorus6 4
+    401258: pTorus6 5
+    401260: pTorus6 6
+    401262: pTorus6 7
+    401264: pTorus6 8
+    401266: pTorus6 9
+    401268: pTorus7
+    401270: pTorus7 1
+    401272: pTorus7 10
+    401274: pTorus7 11
+    401276: pTorus7 2
+    401278: pTorus7 3
+    401280: pTorus7 4
+    401282: pTorus7 5
+    401284: pTorus7 6
+    401286: pTorus7 7
+    401288: pTorus7 8
+    401290: pTorus7 9
+    401292: pTorus8
+    401294: pTorus8 1
+    401296: pTorus8 10
+    401298: pTorus8 11
+    401300: pTorus8 2
+    401302: pTorus8 3
+    401304: pTorus8 4
+    401306: pTorus8 5
+    401308: pTorus8 6
+    401310: pTorus8 7
+    401312: pTorus8 8
+    401314: pTorus8 9
+    401316: //RootNode
+    2100000: logo
+    2100002: earth
+    2100004: globe_int
+    2100006: lambert1
+    2300000: center
+    2300002: MASH2_ReproMesh2
+    2300004: MASH2_ReproMesh3
+    2300006: MASH2_ReproMesh4
+    2300008: MASH2_ReproMesh6
+    2300010: MASH2_ReproMesh7
+    2300012: MASH2_ReproMesh8
+    2300014: pCone1
+    2300016: pCylinder10
+    2300018: pCylinder100
+    2300020: pCylinder101
+    2300022: pCylinder102
+    2300024: pCylinder104
+    2300026: pCylinder105
+    2300028: pCylinder106
+    2300030: pCylinder107
+    2300032: pCylinder108
+    2300034: pCylinder109
+    2300036: pCylinder11
+    2300038: pCylinder110
+    2300040: pCylinder111
+    2300042: pCylinder112
+    2300044: pCylinder113
+    2300046: pCylinder114
+    2300048: pCylinder115
+    2300050: pCylinder116
+    2300052: pCylinder117
+    2300054: pCylinder118
+    2300056: pCylinder119
+    2300058: pCylinder12
+    2300060: pCylinder120
+    2300062: pCylinder121
+    2300064: pCylinder122
+    2300066: pCylinder123
+    2300068: pCylinder124
+    2300070: pCylinder125
+    2300072: pCylinder126
+    2300074: pCylinder127
+    2300076: pCylinder128
+    2300078: pCylinder129
+    2300080: pCylinder130
+    2300082: pCylinder131
+    2300084: pCylinder132
+    2300086: pCylinder133
+    2300088: pCylinder134
+    2300090: pCylinder135
+    2300092: pCylinder136
+    2300094: pCylinder137
+    2300096: pCylinder138
+    2300098: pCylinder139
+    2300100: pCylinder14
+    2300102: pCylinder140
+    2300104: pCylinder141
+    2300106: pCylinder142
+    2300108: pCylinder143
+    2300110: pCylinder144
+    2300112: pCylinder145
+    2300114: pCylinder146
+    2300116: pCylinder147
+    2300118: pCylinder148
+    2300120: pCylinder149
+    2300122: pCylinder15
+    2300124: pCylinder150
+    2300126: pCylinder151
+    2300128: pCylinder152
+    2300130: pCylinder153
+    2300132: pCylinder154
+    2300134: pCylinder155
+    2300136: pCylinder156
+    2300138: pCylinder157
+    2300140: pCylinder158
+    2300142: pCylinder159
+    2300144: pCylinder16
+    2300146: pCylinder160
+    2300148: pCylinder161
+    2300150: pCylinder162
+    2300152: pCylinder163
+    2300154: pCylinder164
+    2300156: pCylinder165
+    2300158: pCylinder166
+    2300160: pCylinder167
+    2300162: pCylinder168
+    2300164: pCylinder169
+    2300166: pCylinder170
+    2300168: pCylinder171
+    2300170: pCylinder18
+    2300172: pCylinder19
+    2300174: pCylinder20
+    2300176: pCylinder21
+    2300178: pCylinder22
+    2300180: pCylinder23
+    2300182: pCylinder24
+    2300184: pCylinder25
+    2300186: pCylinder26
+    2300188: pCylinder27
+    2300190: pCylinder28
+    2300192: pCylinder29
+    2300194: pCylinder31
+    2300196: pCylinder32
+    2300198: pCylinder33
+    2300200: pCylinder34
+    2300202: pCylinder35
+    2300204: pCylinder36
+    2300206: pCylinder37
+    2300208: pCylinder38
+    2300210: pCylinder39
+    2300212: pCylinder40
+    2300214: pCylinder41
+    2300216: pCylinder42
+    2300218: pCylinder43
+    2300220: pCylinder44
+    2300222: pCylinder45
+    2300224: pCylinder46
+    2300226: pCylinder47
+    2300228: pCylinder48
+    2300230: pCylinder49
+    2300232: pCylinder50
+    2300234: pCylinder51
+    2300236: pCylinder52
+    2300238: pCylinder53
+    2300240: pCylinder54
+    2300242: pCylinder55
+    2300244: pCylinder56
+    2300246: pCylinder57
+    2300248: pCylinder58
+    2300250: pCylinder59
+    2300252: pCylinder60
+    2300254: pCylinder61
+    2300256: pCylinder62
+    2300258: pCylinder63
+    2300260: pCylinder64
+    2300262: pCylinder65
+    2300264: pCylinder66
+    2300266: pCylinder67
+    2300268: pCylinder68
+    2300270: pCylinder69
+    2300272: pCylinder70
+    2300274: pCylinder71
+    2300276: pCylinder72
+    2300278: pCylinder73
+    2300280: pCylinder74
+    2300282: pCylinder75
+    2300284: pCylinder76
+    2300286: pCylinder77
+    2300288: pCylinder78
+    2300290: pCylinder79
+    2300292: pCylinder80
+    2300294: pCylinder81
+    2300296: pCylinder82
+    2300298: pCylinder83
+    2300300: pCylinder84
+    2300302: pCylinder85
+    2300304: pCylinder86
+    2300306: pCylinder87
+    2300308: pCylinder88
+    2300310: pCylinder9
+    2300312: pCylinder90
+    2300314: pCylinder91
+    2300316: pCylinder92
+    2300318: pCylinder93
+    2300320: pCylinder94
+    2300322: pCylinder95
+    2300324: pCylinder96
+    2300326: pCylinder97
+    2300328: pCylinder98
+    2300330: pCylinder99
+    2300332: pDisc2
+    2300334: polySurface1
+    2300336: polySurface10
+    2300338: polySurface11
+    2300340: polySurface12
+    2300342: polySurface13
+    2300344: polySurface14
+    2300346: polySurface17
+    2300348: polySurface18
+    2300350: polySurface19
+    2300352: polySurface2
+    2300354: polySurface20
+    2300356: polySurface21
+    2300358: polySurface22
+    2300360: polySurface23
+    2300362: polySurface24
+    2300364: polySurface25
+    2300366: polySurface26
+    2300368: polySurface28
+    2300370: polySurface29
+    2300372: polySurface3
+    2300374: polySurface30
+    2300376: polySurface31
+    2300378: polySurface34
+    2300380: polySurface35
+    2300382: polySurface36
+    2300384: polySurface37
+    2300386: polySurface38
+    2300388: polySurface39
+    2300390: polySurface4
+    2300392: polySurface40
+    2300394: polySurface41
+    2300396: polySurface42
+    2300398: polySurface44
+    2300400: polySurface45
+    2300402: polySurface46
+    2300404: polySurface47
+    2300406: polySurface48
+    2300408: polySurface49
+    2300410: polySurface5
+    2300412: polySurface50
+    2300414: polySurface51
+    2300416: polySurface52
+    2300418: polySurface53
+    2300420: polySurface54
+    2300422: polySurface55
+    2300424: polySurface56
+    2300426: polySurface57
+    2300428: polySurface58
+    2300430: polySurface59
+    2300432: polySurface6
+    2300434: polySurface60
+    2300436: polySurface7
+    2300438: polySurface8
+    2300440: polySurface9
+    2300442: pPipe15
+    2300444: pPipe16
+    2300446: pPipe17
+    2300448: pPipe18
+    2300450: pPipe19
+    2300452: pPipe20
+    2300454: pPlane14
+    2300456: pPlane15
+    2300458: pPlane16
+    2300460: pPlane17
+    2300462: pPlane18
+    2300464: pPlane19
+    2300466: pPlane20
+    2300468: pTorus25
+    2300470: pTorus26
+    2300472: pTorus28
+    3300000: center
+    3300002: MASH2_ReproMesh2
+    3300004: MASH2_ReproMesh3
+    3300006: MASH2_ReproMesh4
+    3300008: MASH2_ReproMesh6
+    3300010: MASH2_ReproMesh7
+    3300012: MASH2_ReproMesh8
+    3300014: pCone1
+    3300016: pCylinder10
+    3300018: pCylinder100
+    3300020: pCylinder101
+    3300022: pCylinder102
+    3300024: pCylinder104
+    3300026: pCylinder105
+    3300028: pCylinder106
+    3300030: pCylinder107
+    3300032: pCylinder108
+    3300034: pCylinder109
+    3300036: pCylinder11
+    3300038: pCylinder110
+    3300040: pCylinder111
+    3300042: pCylinder112
+    3300044: pCylinder113
+    3300046: pCylinder114
+    3300048: pCylinder115
+    3300050: pCylinder116
+    3300052: pCylinder117
+    3300054: pCylinder118
+    3300056: pCylinder119
+    3300058: pCylinder12
+    3300060: pCylinder120
+    3300062: pCylinder121
+    3300064: pCylinder122
+    3300066: pCylinder123
+    3300068: pCylinder124
+    3300070: pCylinder125
+    3300072: pCylinder126
+    3300074: pCylinder127
+    3300076: pCylinder128
+    3300078: pCylinder129
+    3300080: pCylinder130
+    3300082: pCylinder131
+    3300084: pCylinder132
+    3300086: pCylinder133
+    3300088: pCylinder134
+    3300090: pCylinder135
+    3300092: pCylinder136
+    3300094: pCylinder137
+    3300096: pCylinder138
+    3300098: pCylinder139
+    3300100: pCylinder14
+    3300102: pCylinder140
+    3300104: pCylinder141
+    3300106: pCylinder142
+    3300108: pCylinder143
+    3300110: pCylinder144
+    3300112: pCylinder145
+    3300114: pCylinder146
+    3300116: pCylinder147
+    3300118: pCylinder148
+    3300120: pCylinder149
+    3300122: pCylinder15
+    3300124: pCylinder150
+    3300126: pCylinder151
+    3300128: pCylinder152
+    3300130: pCylinder153
+    3300132: pCylinder154
+    3300134: pCylinder155
+    3300136: pCylinder156
+    3300138: pCylinder157
+    3300140: pCylinder158
+    3300142: pCylinder159
+    3300144: pCylinder16
+    3300146: pCylinder160
+    3300148: pCylinder161
+    3300150: pCylinder162
+    3300152: pCylinder163
+    3300154: pCylinder164
+    3300156: pCylinder165
+    3300158: pCylinder166
+    3300160: pCylinder167
+    3300162: pCylinder168
+    3300164: pCylinder169
+    3300166: pCylinder170
+    3300168: pCylinder171
+    3300170: pCylinder18
+    3300172: pCylinder19
+    3300174: pCylinder20
+    3300176: pCylinder21
+    3300178: pCylinder22
+    3300180: pCylinder23
+    3300182: pCylinder24
+    3300184: pCylinder25
+    3300186: pCylinder26
+    3300188: pCylinder27
+    3300190: pCylinder28
+    3300192: pCylinder29
+    3300194: pCylinder31
+    3300196: pCylinder32
+    3300198: pCylinder33
+    3300200: pCylinder34
+    3300202: pCylinder35
+    3300204: pCylinder36
+    3300206: pCylinder37
+    3300208: pCylinder38
+    3300210: pCylinder39
+    3300212: pCylinder40
+    3300214: pCylinder41
+    3300216: pCylinder42
+    3300218: pCylinder43
+    3300220: pCylinder44
+    3300222: pCylinder45
+    3300224: pCylinder46
+    3300226: pCylinder47
+    3300228: pCylinder48
+    3300230: pCylinder49
+    3300232: pCylinder50
+    3300234: pCylinder51
+    3300236: pCylinder52
+    3300238: pCylinder53
+    3300240: pCylinder54
+    3300242: pCylinder55
+    3300244: pCylinder56
+    3300246: pCylinder57
+    3300248: pCylinder58
+    3300250: pCylinder59
+    3300252: pCylinder60
+    3300254: pCylinder61
+    3300256: pCylinder62
+    3300258: pCylinder63
+    3300260: pCylinder64
+    3300262: pCylinder65
+    3300264: pCylinder66
+    3300266: pCylinder67
+    3300268: pCylinder68
+    3300270: pCylinder69
+    3300272: pCylinder70
+    3300274: pCylinder71
+    3300276: pCylinder72
+    3300278: pCylinder73
+    3300280: pCylinder74
+    3300282: pCylinder75
+    3300284: pCylinder76
+    3300286: pCylinder77
+    3300288: pCylinder78
+    3300290: pCylinder79
+    3300292: pCylinder80
+    3300294: pCylinder81
+    3300296: pCylinder82
+    3300298: pCylinder83
+    3300300: pCylinder84
+    3300302: pCylinder85
+    3300304: pCylinder86
+    3300306: pCylinder87
+    3300308: pCylinder88
+    3300310: pCylinder9
+    3300312: pCylinder90
+    3300314: pCylinder91
+    3300316: pCylinder92
+    3300318: pCylinder93
+    3300320: pCylinder94
+    3300322: pCylinder95
+    3300324: pCylinder96
+    3300326: pCylinder97
+    3300328: pCylinder98
+    3300330: pCylinder99
+    3300332: pDisc2
+    3300334: polySurface1
+    3300336: polySurface10
+    3300338: polySurface11
+    3300340: polySurface12
+    3300342: polySurface13
+    3300344: polySurface14
+    3300346: polySurface17
+    3300348: polySurface18
+    3300350: polySurface19
+    3300352: polySurface2
+    3300354: polySurface20
+    3300356: polySurface21
+    3300358: polySurface22
+    3300360: polySurface23
+    3300362: polySurface24
+    3300364: polySurface25
+    3300366: polySurface26
+    3300368: polySurface28
+    3300370: polySurface29
+    3300372: polySurface3
+    3300374: polySurface30
+    3300376: polySurface31
+    3300378: polySurface34
+    3300380: polySurface35
+    3300382: polySurface36
+    3300384: polySurface37
+    3300386: polySurface38
+    3300388: polySurface39
+    3300390: polySurface4
+    3300392: polySurface40
+    3300394: polySurface41
+    3300396: polySurface42
+    3300398: polySurface44
+    3300400: polySurface45
+    3300402: polySurface46
+    3300404: polySurface47
+    3300406: polySurface48
+    3300408: polySurface49
+    3300410: polySurface5
+    3300412: polySurface50
+    3300414: polySurface51
+    3300416: polySurface52
+    3300418: polySurface53
+    3300420: polySurface54
+    3300422: polySurface55
+    3300424: polySurface56
+    3300426: polySurface57
+    3300428: polySurface58
+    3300430: polySurface59
+    3300432: polySurface6
+    3300434: polySurface60
+    3300436: polySurface7
+    3300438: polySurface8
+    3300440: polySurface9
+    3300442: pPipe15
+    3300444: pPipe16
+    3300446: pPipe17
+    3300448: pPipe18
+    3300450: pPipe19
+    3300452: pPipe20
+    3300454: pPlane14
+    3300456: pPlane15
+    3300458: pPlane16
+    3300460: pPlane17
+    3300462: pPlane18
+    3300464: pPlane19
+    3300466: pPlane20
+    3300468: pTorus25
+    3300470: pTorus26
+    3300472: pTorus28
+    4300000: MASH2_ReproMesh8
+    4300002: MASH2_ReproMesh7
+    4300004: MASH2_ReproMesh6
+    4300006: MASH2_ReproMesh4
+    4300008: MASH2_ReproMesh3
+    4300010: MASH2_ReproMesh2
+    4300012: pTorus28
+    4300014: pCone1
+    4300016: pDisc2
+    4300018: group20_group1_group15_pDisc3
+    4300020: pTorus19
+    4300022: pTorus18
+    4300024: pTorus17
+    4300026: pTorus16
+    4300028: pTorus15
+    4300030: pTorus14
+    4300032: pTorus13
+    4300034: pTorus12
+    4300036: pTorus11
+    4300038: pTorus10
+    4300040: pTorus8
+    4300042: pTorus7
+    4300044: pTorus6
+    4300046: pTorus2
+    4300048: pTorus4
+    4300050: pTorus20
+    4300052: pTorus19
+    4300054: pTorus18
+    4300056: pTorus17
+    4300058: pTorus16
+    4300060: pTorus15
+    4300062: pTorus14
+    4300064: pTorus13
+    4300066: pTorus12
+    4300068: pTorus11
+    4300070: pTorus10
+    4300072: pTorus8
+    4300074: pTorus7
+    4300076: pTorus6
+    4300078: pTorus2
+    4300080: pTorus4
+    4300082: pTorus20
+    4300084: pTorus19
+    4300086: pTorus18
+    4300088: pTorus17
+    4300090: pTorus16
+    4300092: pTorus15
+    4300094: pTorus14
+    4300096: pTorus13
+    4300098: pTorus12
+    4300100: pTorus11
+    4300102: pTorus10
+    4300104: pTorus8
+    4300106: pTorus7
+    4300108: pTorus6
+    4300110: pTorus2
+    4300112: pTorus4
+    4300114: pTorus20
+    4300116: pTorus19
+    4300118: pTorus18
+    4300120: pTorus17
+    4300122: pTorus16
+    4300124: pTorus15
+    4300126: pTorus14
+    4300128: pTorus13
+    4300130: pTorus12
+    4300132: pTorus11
+    4300134: pTorus10
+    4300136: pTorus8
+    4300138: pTorus7
+    4300140: pTorus6
+    4300142: pTorus2
+    4300144: pTorus4
+    4300146: pTorus20
+    4300148: pTorus19
+    4300150: pTorus18
+    4300152: pTorus17
+    4300154: pTorus16
+    4300156: pTorus15
+    4300158: pTorus14
+    4300160: pTorus13
+    4300162: pTorus12
+    4300164: pTorus11
+    4300166: pTorus10
+    4300168: pTorus8
+    4300170: pTorus7
+    4300172: pTorus6
+    4300174: pTorus2
+    4300176: pTorus4
+    4300178: pTorus20
+    4300180: pTorus19
+    4300182: pTorus18
+    4300184: pTorus17
+    4300186: pTorus16
+    4300188: pTorus15
+    4300190: pTorus14
+    4300192: pTorus13
+    4300194: pTorus12
+    4300196: pTorus11
+    4300198: pTorus10
+    4300200: pTorus8
+    4300202: pTorus7
+    4300204: pTorus6
+    4300206: pTorus2
+    4300208: pTorus4
+    4300210: pTorus20
+    4300212: pTorus19
+    4300214: pTorus18
+    4300216: pTorus17
+    4300218: pTorus16
+    4300220: pTorus15
+    4300222: pTorus14
+    4300224: pTorus13
+    4300226: pTorus12
+    4300228: pTorus11
+    4300230: pTorus10
+    4300232: pTorus8
+    4300234: pTorus7
+    4300236: pTorus6
+    4300238: pTorus2
+    4300240: pTorus4
+    4300242: pTorus20
+    4300244: pTorus19
+    4300246: pTorus18
+    4300248: pTorus17
+    4300250: pTorus16
+    4300252: pTorus15
+    4300254: pTorus14
+    4300256: pTorus13
+    4300258: pTorus12
+    4300260: pTorus11
+    4300262: pTorus10
+    4300264: pTorus8
+    4300266: pTorus7
+    4300268: pTorus6
+    4300270: pTorus2
+    4300272: pTorus4
+    4300274: pTorus20
+    4300276: pTorus19
+    4300278: pTorus18
+    4300280: pTorus17
+    4300282: pTorus16
+    4300284: pTorus15
+    4300286: pTorus14
+    4300288: pTorus13
+    4300290: pTorus12
+    4300292: pTorus11
+    4300294: pTorus10
+    4300296: pTorus8
+    4300298: pTorus7
+    4300300: pTorus6
+    4300302: pTorus2
+    4300304: pTorus4
+    4300306: pTorus20
+    4300308: pTorus19
+    4300310: pTorus18
+    4300312: pTorus17
+    4300314: pTorus16
+    4300316: pTorus15
+    4300318: pTorus14
+    4300320: pTorus13
+    4300322: pTorus12
+    4300324: pTorus11
+    4300326: pTorus10
+    4300328: pTorus8
+    4300330: pTorus7
+    4300332: pTorus6
+    4300334: pTorus2
+    4300336: pTorus4
+    4300338: pTorus20
+    4300340: pTorus19
+    4300342: pTorus18
+    4300344: pTorus17
+    4300346: pTorus16
+    4300348: pTorus15
+    4300350: pTorus14
+    4300352: pTorus13
+    4300354: pTorus12
+    4300356: pTorus11
+    4300358: pTorus10
+    4300360: pTorus8
+    4300362: pTorus7
+    4300364: pTorus6
+    4300366: pTorus2
+    4300368: pTorus4
+    4300370: pTorus20
+    4300372: pTorus19
+    4300374: pTorus18
+    4300376: pTorus17
+    4300378: pTorus16
+    4300380: pTorus15
+    4300382: pTorus14
+    4300384: pTorus13
+    4300386: pTorus12
+    4300388: pTorus11
+    4300390: pTorus10
+    4300392: pTorus8
+    4300394: pTorus7
+    4300396: pTorus6
+    4300398: pTorus2
+    4300400: pTorus4
+    4300402: pTorus20
+    4300404: polySurface1
+    4300406: polySurface2
+    4300408: polySurface3
+    4300410: polySurface4
+    4300412: polySurface5
+    4300414: polySurface6
+    4300416: polySurface7
+    4300418: polySurface8
+    4300420: polySurface9
+    4300422: polySurface10
+    4300424: polySurface11
+    4300426: polySurface12
+    4300428: polySurface13
+    4300430: polySurface14
+    4300432: polySurface17
+    4300434: polySurface18
+    4300436: polySurface19
+    4300438: polySurface20
+    4300440: polySurface21
+    4300442: polySurface22
+    4300444: polySurface23
+    4300446: polySurface24
+    4300448: polySurface25
+    4300450: polySurface26
+    4300452: polySurface28
+    4300454: polySurface29
+    4300456: polySurface30
+    4300458: polySurface31
+    4300460: polySurface34
+    4300462: polySurface35
+    4300464: polySurface36
+    4300466: polySurface37
+    4300468: polySurface38
+    4300470: polySurface39
+    4300472: polySurface40
+    4300474: polySurface41
+    4300476: polySurface42
+    4300478: polySurface44
+    4300480: polySurface45
+    4300482: polySurface46
+    4300484: polySurface47
+    4300486: polySurface48
+    4300488: polySurface49
+    4300490: polySurface50
+    4300492: polySurface51
+    4300494: polySurface52
+    4300496: polySurface53
+    4300498: polySurface54
+    4300500: polySurface55
+    4300502: polySurface56
+    4300504: polySurface57
+    4300506: polySurface58
+    4300508: polySurface59
+    4300510: polySurface60
+    4300512: pCylinder9
+    4300514: pCylinder10
+    4300516: pCylinder11
+    4300518: pCylinder12
+    4300520: pCylinder14
+    4300522: pCylinder15
+    4300524: pCylinder16
+    4300526: pCylinder18
+    4300528: pCylinder19
+    4300530: pCylinder20
+    4300532: pCylinder21
+    4300534: pCylinder22
+    4300536: pCylinder23
+    4300538: pCylinder24
+    4300540: pCylinder25
+    4300542: pCylinder26
+    4300544: pCylinder27
+    4300546: pCylinder28
+    4300548: pCylinder29
+    4300550: pCylinder31
+    4300552: pCylinder32
+    4300554: pCylinder33
+    4300556: pCylinder34
+    4300558: pCylinder35
+    4300560: pCylinder36
+    4300562: pCylinder37
+    4300564: pCylinder38
+    4300566: pCylinder39
+    4300568: pCylinder40
+    4300570: pCylinder41
+    4300572: pCylinder42
+    4300574: pCylinder43
+    4300576: pCylinder44
+    4300578: pCylinder45
+    4300580: pCylinder46
+    4300582: pCylinder47
+    4300584: pCylinder48
+    4300586: pCylinder49
+    4300588: pCylinder50
+    4300590: pCylinder51
+    4300592: pCylinder52
+    4300594: pCylinder53
+    4300596: pCylinder54
+    4300598: pCylinder55
+    4300600: pCylinder56
+    4300602: pCylinder57
+    4300604: pCylinder58
+    4300606: pCylinder59
+    4300608: pCylinder60
+    4300610: pCylinder61
+    4300612: pCylinder62
+    4300614: pCylinder63
+    4300616: pCylinder64
+    4300618: pCylinder65
+    4300620: pCylinder66
+    4300622: pCylinder67
+    4300624: pCylinder68
+    4300626: pCylinder69
+    4300628: pCylinder70
+    4300630: pCylinder71
+    4300632: pCylinder72
+    4300634: pCylinder73
+    4300636: pCylinder74
+    4300638: pCylinder75
+    4300640: pCylinder76
+    4300642: pCylinder77
+    4300644: pCylinder78
+    4300646: pCylinder79
+    4300648: pCylinder80
+    4300650: pCylinder81
+    4300652: pCylinder82
+    4300654: pCylinder83
+    4300656: pCylinder84
+    4300658: pCylinder85
+    4300660: pCylinder86
+    4300662: pCylinder87
+    4300664: pCylinder88
+    4300666: pCylinder90
+    4300668: pCylinder91
+    4300670: pCylinder92
+    4300672: pCylinder93
+    4300674: pCylinder94
+    4300676: pCylinder95
+    4300678: pCylinder96
+    4300680: pCylinder97
+    4300682: pCylinder98
+    4300684: pCylinder99
+    4300686: pCylinder100
+    4300688: pCylinder101
+    4300690: pCylinder102
+    4300692: pCylinder104
+    4300694: pCylinder105
+    4300696: pCylinder106
+    4300698: pCylinder107
+    4300700: pCylinder108
+    4300702: pCylinder109
+    4300704: pCylinder110
+    4300706: pCylinder111
+    4300708: pCylinder112
+    4300710: pCylinder113
+    4300712: pCylinder114
+    4300714: pCylinder115
+    4300716: pCylinder116
+    4300718: pCylinder117
+    4300720: pCylinder118
+    4300722: pCylinder119
+    4300724: pCylinder120
+    4300726: pCylinder121
+    4300728: pCylinder122
+    4300730: pCylinder123
+    4300732: pCylinder124
+    4300734: pCylinder125
+    4300736: pCylinder126
+    4300738: pCylinder127
+    4300740: pCylinder128
+    4300742: pCylinder129
+    4300744: pCylinder130
+    4300746: pCylinder131
+    4300748: pCylinder132
+    4300750: pCylinder133
+    4300752: pCylinder134
+    4300754: pCylinder135
+    4300756: pCylinder136
+    4300758: pCylinder137
+    4300760: pCylinder138
+    4300762: pCylinder139
+    4300764: pCylinder140
+    4300766: pCylinder141
+    4300768: pCylinder142
+    4300770: pCylinder143
+    4300772: pCylinder144
+    4300774: pCylinder145
+    4300776: pCylinder146
+    4300778: pCylinder147
+    4300780: pCylinder148
+    4300782: pCylinder149
+    4300784: pCylinder150
+    4300786: pCylinder151
+    4300788: pCylinder152
+    4300790: pCylinder153
+    4300792: pCylinder154
+    4300794: pCylinder155
+    4300796: pCylinder156
+    4300798: pCylinder157
+    4300800: pCylinder158
+    4300802: pCylinder159
+    4300804: pCylinder160
+    4300806: pCylinder161
+    4300808: pCylinder162
+    4300810: pCylinder163
+    4300812: pCylinder164
+    4300814: pCylinder165
+    4300816: pCylinder166
+    4300818: pCylinder167
+    4300820: pCylinder168
+    4300822: pCylinder169
+    4300824: pCylinder170
+    4300826: pCylinder171
+    4300828: center
+    4300830: pPipe15
+    4300832: pPipe16
+    4300834: pPlane14
+    4300836: pPlane15
+    4300838: pPipe17
+    4300840: pPipe18
+    4300842: pPlane16
+    4300844: pPlane17
+    4300846: pPlane18
+    4300848: pPipe19
+    4300850: pPipe20
+    4300852: pPlane19
+    4300854: pPlane20
+    4300856: pTorus26
+    4300858: pTorus25
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: group20_group1_group15_pDisc3
+    13700002: pTorus10
+    13700004: pTorus10 1
+    13700006: pTorus10 10
+    13700008: pTorus10 11
+    13700010: pTorus10 2
+    13700012: pTorus10 3
+    13700014: pTorus10 4
+    13700016: pTorus10 5
+    13700018: pTorus10 6
+    13700020: pTorus10 7
+    13700022: pTorus10 8
+    13700024: pTorus10 9
+    13700026: pTorus11
+    13700028: pTorus11 1
+    13700030: pTorus11 10
+    13700032: pTorus11 11
+    13700034: pTorus11 2
+    13700036: pTorus11 3
+    13700038: pTorus11 4
+    13700040: pTorus11 5
+    13700042: pTorus11 6
+    13700044: pTorus11 7
+    13700046: pTorus11 8
+    13700048: pTorus11 9
+    13700050: pTorus12
+    13700052: pTorus12 1
+    13700054: pTorus12 10
+    13700056: pTorus12 11
+    13700058: pTorus12 2
+    13700060: pTorus12 3
+    13700062: pTorus12 4
+    13700064: pTorus12 5
+    13700066: pTorus12 6
+    13700068: pTorus12 7
+    13700070: pTorus12 8
+    13700072: pTorus12 9
+    13700074: pTorus13
+    13700076: pTorus13 1
+    13700078: pTorus13 10
+    13700080: pTorus13 11
+    13700082: pTorus13 2
+    13700084: pTorus13 3
+    13700086: pTorus13 4
+    13700088: pTorus13 5
+    13700090: pTorus13 6
+    13700092: pTorus13 7
+    13700094: pTorus13 8
+    13700096: pTorus13 9
+    13700098: pTorus14
+    13700100: pTorus14 1
+    13700102: pTorus14 10
+    13700104: pTorus14 11
+    13700106: pTorus14 2
+    13700108: pTorus14 3
+    13700110: pTorus14 4
+    13700112: pTorus14 5
+    13700114: pTorus14 6
+    13700116: pTorus14 7
+    13700118: pTorus14 8
+    13700120: pTorus14 9
+    13700122: pTorus15
+    13700124: pTorus15 1
+    13700126: pTorus15 10
+    13700128: pTorus15 11
+    13700130: pTorus15 2
+    13700132: pTorus15 3
+    13700134: pTorus15 4
+    13700136: pTorus15 5
+    13700138: pTorus15 6
+    13700140: pTorus15 7
+    13700142: pTorus15 8
+    13700144: pTorus15 9
+    13700146: pTorus16
+    13700148: pTorus16 1
+    13700150: pTorus16 10
+    13700152: pTorus16 11
+    13700154: pTorus16 2
+    13700156: pTorus16 3
+    13700158: pTorus16 4
+    13700160: pTorus16 5
+    13700162: pTorus16 6
+    13700164: pTorus16 7
+    13700166: pTorus16 8
+    13700168: pTorus16 9
+    13700170: pTorus17
+    13700172: pTorus17 1
+    13700174: pTorus17 10
+    13700176: pTorus17 11
+    13700178: pTorus17 2
+    13700180: pTorus17 3
+    13700182: pTorus17 4
+    13700184: pTorus17 5
+    13700186: pTorus17 6
+    13700188: pTorus17 7
+    13700190: pTorus17 8
+    13700192: pTorus17 9
+    13700194: pTorus18
+    13700196: pTorus18 1
+    13700198: pTorus18 10
+    13700200: pTorus18 11
+    13700202: pTorus18 2
+    13700204: pTorus18 3
+    13700206: pTorus18 4
+    13700208: pTorus18 5
+    13700210: pTorus18 6
+    13700212: pTorus18 7
+    13700214: pTorus18 8
+    13700216: pTorus18 9
+    13700218: pTorus19
+    13700220: pTorus19 1
+    13700222: pTorus19 10
+    13700224: pTorus19 11
+    13700226: pTorus19 2
+    13700228: pTorus19 3
+    13700230: pTorus19 4
+    13700232: pTorus19 5
+    13700234: pTorus19 6
+    13700236: pTorus19 7
+    13700238: pTorus19 8
+    13700240: pTorus19 9
+    13700242: pTorus2
+    13700244: pTorus2 1
+    13700246: pTorus2 10
+    13700248: pTorus2 11
+    13700250: pTorus2 2
+    13700252: pTorus2 3
+    13700254: pTorus2 4
+    13700256: pTorus2 5
+    13700258: pTorus2 6
+    13700260: pTorus2 7
+    13700262: pTorus2 8
+    13700264: pTorus2 9
+    13700266: pTorus20
+    13700268: pTorus20 1
+    13700270: pTorus20 10
+    13700272: pTorus20 11
+    13700274: pTorus20 2
+    13700276: pTorus20 3
+    13700278: pTorus20 4
+    13700280: pTorus20 5
+    13700282: pTorus20 6
+    13700284: pTorus20 7
+    13700286: pTorus20 8
+    13700288: pTorus20 9
+    13700290: pTorus4
+    13700292: pTorus4 1
+    13700294: pTorus4 10
+    13700296: pTorus4 11
+    13700298: pTorus4 2
+    13700300: pTorus4 3
+    13700302: pTorus4 4
+    13700304: pTorus4 5
+    13700306: pTorus4 6
+    13700308: pTorus4 7
+    13700310: pTorus4 8
+    13700312: pTorus4 9
+    13700314: pTorus6
+    13700316: pTorus6 1
+    13700318: pTorus6 10
+    13700320: pTorus6 11
+    13700322: pTorus6 2
+    13700324: pTorus6 3
+    13700326: pTorus6 4
+    13700328: pTorus6 5
+    13700330: pTorus6 6
+    13700332: pTorus6 7
+    13700334: pTorus6 8
+    13700336: pTorus6 9
+    13700338: pTorus7
+    13700340: pTorus7 1
+    13700342: pTorus7 10
+    13700344: pTorus7 11
+    13700346: pTorus7 2
+    13700348: pTorus7 3
+    13700350: pTorus7 4
+    13700352: pTorus7 5
+    13700354: pTorus7 6
+    13700356: pTorus7 7
+    13700358: pTorus7 8
+    13700360: pTorus7 9
+    13700362: pTorus8
+    13700364: pTorus8 1
+    13700366: pTorus8 10
+    13700368: pTorus8 11
+    13700370: pTorus8 2
+    13700372: pTorus8 3
+    13700374: pTorus8 4
+    13700376: pTorus8 5
+    13700378: pTorus8 6
+    13700380: pTorus8 7
+    13700382: pTorus8 8
+    13700384: pTorus8 9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 296
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

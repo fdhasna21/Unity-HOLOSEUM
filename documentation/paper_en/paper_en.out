@@ -1,0 +1,28 @@
+\BOOKMARK [1][-]{section.1}{I INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.2}{II RELATED RESEARCHES}{}% 2
+\BOOKMARK [1][-]{section.3}{III METHODOLOGY}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{III-A Device Usage Scenarios}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{III-B Device Setting}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{III-C Visualization System}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{III-D Interaction System}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.4.1}{III-D1 Object Exploration Algorithm}{subsection.3.4}% 8
+\BOOKMARK [3][-]{subsubsection.3.4.2}{III-D2 Zoom Object Algorithm}{subsection.3.4}% 9
+\BOOKMARK [3][-]{subsubsection.3.4.3}{III-D3 Object Animation Activation Algorithm}{subsection.3.4}% 10
+\BOOKMARK [3][-]{subsubsection.3.4.4}{III-D4 Reset to Default Algorithm }{subsection.3.4}% 11
+\BOOKMARK [3][-]{subsubsection.3.4.5}{III-D5 Object Substitution Algorithm}{subsection.3.4}% 12
+\BOOKMARK [3][-]{subsubsection.3.4.6}{III-D6 Displays the Help Menu Algorithm}{subsection.3.4}% 13
+\BOOKMARK [3][-]{subsubsection.3.4.7}{III-D7 Display Menu Algorithm}{subsection.3.4}% 14
+\BOOKMARK [3][-]{subsubsection.3.4.8}{III-D8 Algorithm Cancel or Select Options }{subsection.3.4}% 15
+\BOOKMARK [1][-]{section.4}{IV TESTING AND RESULTS}{}% 16
+\BOOKMARK [2][-]{subsection.4.1}{IV-A Hologram Projection Testing}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.2}{IV-B Hand Detection Testing}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.3}{IV-C System Performance Testing}{section.4}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.1}{IV-C1 Performance Testing on PC 1}{subsection.4.3}% 20
+\BOOKMARK [3][-]{subsubsection.4.3.2}{IV-C2 Performance Testing on PC 2}{subsection.4.3}% 21
+\BOOKMARK [3][-]{subsubsection.4.3.3}{IV-C3 \040Performance Testing on PC 3}{subsection.4.3}% 22
+\BOOKMARK [2][-]{subsection.4.4}{IV-D System Usability Testing }{section.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.4.1}{IV-D1 System Effectiveness Testing}{subsection.4.4}% 24
+\BOOKMARK [3][-]{subsubsection.4.4.2}{IV-D2 User Satisfaction Testing}{subsection.4.4}% 25
+\BOOKMARK [3][-]{subsubsection.4.4.3}{IV-D3 System Real Time Response Testing}{subsection.4.4}% 26
+\BOOKMARK [1][-]{section.5}{V CONCLUSION}{}% 27
+\BOOKMARK [1][-]{section*.17}{References}{}% 28

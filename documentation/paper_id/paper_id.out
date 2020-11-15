@@ -1,0 +1,28 @@
+\BOOKMARK [1][-]{section.1}{I PENDAHULUAN}{}% 1
+\BOOKMARK [1][-]{section.2}{II PENELITIAN SEBELUMNYA}{}% 2
+\BOOKMARK [1][-]{section.3}{III METODOLOGI}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{III-A Skenario Penggunaan Perangkat}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{III-B Setting Perangkat}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{III-C Sistem Visualisasi Hologram}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{III-D Sistem Interaksi Pengindera Tangan}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.4.1}{III-D1 Algoritma Eksplorasi Objek}{subsection.3.4}% 8
+\BOOKMARK [3][-]{subsubsection.3.4.2}{III-D2 Algoritma Zoom Object}{subsection.3.4}% 9
+\BOOKMARK [3][-]{subsubsection.3.4.3}{III-D3 Algoritma Aktivasi Animasi Objek}{subsection.3.4}% 10
+\BOOKMARK [3][-]{subsubsection.3.4.4}{III-D4 Algoritma Reset to Default}{subsection.3.4}% 11
+\BOOKMARK [3][-]{subsubsection.3.4.5}{III-D5 Algoritma Pergantian Objek}{subsection.3.4}% 12
+\BOOKMARK [3][-]{subsubsection.3.4.6}{III-D6 Algoritma Menampilkan Menu Help}{subsection.3.4}% 13
+\BOOKMARK [3][-]{subsubsection.3.4.7}{III-D7 Algoritma Menampilkan Main Menu}{subsection.3.4}% 14
+\BOOKMARK [3][-]{subsubsection.3.4.8}{III-D8 Algoritma Membatalkan atau Menyetujui Pilihan}{subsection.3.4}% 15
+\BOOKMARK [1][-]{section.4}{IV PENGUJIAN DAN ANALISIS}{}% 16
+\BOOKMARK [2][-]{subsection.4.1}{IV-A Pengujian Penyajian Objek Hologram}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.2}{IV-B Pengujian Deteksi Pengindera Tangan}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.3}{IV-C Pengujian Performansi Sistem}{section.4}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.1}{IV-C1 Pengujian Performansi pada PC 1}{subsection.4.3}% 20
+\BOOKMARK [3][-]{subsubsection.4.3.2}{IV-C2 Pengujian Performansi pada PC 2}{subsection.4.3}% 21
+\BOOKMARK [3][-]{subsubsection.4.3.3}{IV-C3 Pengujian Performansi pada PC 3}{subsection.4.3}% 22
+\BOOKMARK [2][-]{subsection.4.4}{IV-D Pengujian Kebermanfaatan Sistem}{section.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.4.1}{IV-D1 Pengujian Efektivitas Sistem}{subsection.4.4}% 24
+\BOOKMARK [3][-]{subsubsection.4.4.2}{IV-D2 Pengujian Kepuasan Pengguna}{subsection.4.4}% 25
+\BOOKMARK [3][-]{subsubsection.4.4.3}{IV-D3 Pengujian Real Time Response Sistem}{subsection.4.4}% 26
+\BOOKMARK [1][-]{section.5}{V KESIMPULAN}{}% 27
+\BOOKMARK [1][-]{section*.17}{DAFTAR PUSTAKA}{}% 28

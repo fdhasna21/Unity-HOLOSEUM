@@ -1,0 +1,1506 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.26)  4 NOV 2020 20:04
+entering extended mode
+**./paper_en.tex
+(paper_en.tex
+LaTeX2e <2020-02-02> patch level 4
+L3 programming layer <2020-02-21>
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ieeetran\IEEEtran.
+cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpdimenC=\dimen136
+\@IEEEtrantmpcountA=\count167
+\@IEEEtrantmpcountB=\count168
+\@IEEEtrantmpcountC=\count169
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen137
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen138
+\CLASSINFOnormalsizeunitybaselineskip=\dimen139
+\IEEEnormaljot=\dimen140
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen141
+\IEEEquantizedlengthdiff=\dimen142
+\IEEEquantizedtextheightdiff=\dimen143
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@IEEEsubequation=\count174
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count175
+\c@table=\count176
+\@IEEEeqnnumcols=\count177
+\@IEEEeqncolcnt=\count178
+\@IEEEsubeqnnumrollback=\count179
+\@IEEEquantizeheightA=\dimen152
+\@IEEEquantizeheightB=\dimen153
+\@IEEEquantizeheightC=\dimen154
+\@IEEEquantizeprevdepth=\dimen155
+\@IEEEquantizemultiple=\count180
+\@IEEEquantizeboxA=\box45
+\@IEEEtmpitemindent=\dimen156
+\IEEEPARstartletwidth=\dimen157
+\c@IEEEbiography=\count181
+\@IEEEtranrubishbin=\box46
+)
+** ATTENTION: Overriding command lockouts (line 2).
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
+sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
+err.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
+eys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesc
+ape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.st
+y"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltx
+macro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.st
+y"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
+s.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen158
+\Hy@linkcounter=\count182
+\Hy@pagecounter=\count183
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+f"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.
+sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmd
+s.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count184
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4421
+.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count185
+ ("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen159
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.st
+y"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigin
+tcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count186
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegsh
+i.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count187
+\c@Item=\count188
+\c@Hfootnote=\count189
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryen
+d.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count190
+\c@bookmark@seq@number=\count191
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\rer
+unfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\un
+iquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip50
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen162
+))
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count192
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count193
+\leftroot@=\count194
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count195
+\DOTSCASE@=\count196
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count197
+\c@MaxMatrixCols=\count198
+\dotsspace@=\muskip17
+\c@parentequation=\count199
+\dspbrk@lvl=\count266
+\tag@help=\toks17
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks18
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks19
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithms\algorit
+hmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count270
+\c@ALC@line=\count271
+\c@ALC@rem=\count272
+\c@ALC@depth=\count273
+\ALC@tlm=\skip54
+\algorithmicindent=\skip55
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) ("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
+y"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen173
+\captionmargin@=\dimen174
+\captionwidth=\dimen175
+\caption@tempdima=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi  on input line 1082.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count274
+\c@continuedfloat=\count275
+Package caption Info: hyperref package is loaded.
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
+"
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ ("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box49
+\extrarowheight=\dimen181
+\NC@list=\toks21
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box50
+)
+\TX@col@width=\dimen182
+\TX@old@table=\dimen183
+\TX@old@col=\dimen184
+\TX@target=\dimen185
+\TX@delta=\dimen186
+\TX@cols=\count276
+\TX@ftn=\toks22
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/comment\comment.st
+y"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption
+.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count277
+\c@subtable=\count278
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count279
+\multirow@dima=\skip59
+\bigstrutjot=\dimen187
+) ("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count280
+\l__pdf_internal_box=\box51
+) (paper_en.aux)
+\openout1 = `paper_en.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+-- Lines per column: 56 (exact).
+\AtBeginShipoutBox=\box52
+Package hyperref Info: Link coloring OFF on input line 42.
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.
+sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\g
+ettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count281
+)
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
+ (paper_en.out) (paper_en.out)
+\@outlinefile=\write4
+\openout4 = `paper_en.out'.
+
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen188
+\scratchbox=\box53
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen189
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks24
+)
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
+
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
+
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/mocha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+<img/metodologi.png, id=144, 1112.155pt x 1025.8325pt>
+File: img/metodologi.png Graphic file (type png)
+<use img/metodologi.png>
+Package pdftex.def Info: img/metodologi.png  used on input line 92.
+(pdftex.def)             Requested size: 252.84283pt x 233.2129pt.
+
+Overfull \hbox (0.84283pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+<img/alur_kerja.png, id=146, 1021.8175pt x 664.4825pt>
+File: img/alur_kerja.png Graphic file (type png)
+<use img/alur_kerja.png>
+Package pdftex.def Info: img/alur_kerja.png  used on input line 101.
+(pdftex.def)             Requested size: 206.39685pt x 134.21223pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+32.
+("C:\Users\mocha\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<img/foto_alat.jpg, id=150, 1619.29968pt x 1093.08376pt>
+File: img/foto_alat.jpg Graphic file (type jpg)
+<use img/foto_alat.jpg>
+Package pdftex.def Info: img/foto_alat.jpg  used on input line 139.
+(pdftex.def)             Requested size: 170.28094pt x 114.93562pt.
+<img/desain_visualisasi.png, id=152, 1648.1575pt x 1045.9075pt>
+File: img/desain_visualisasi.png Graphic file (type png)
+<use img/desain_visualisasi.png>
+Package pdftex.def Info: img/desain_visualisasi.png  used on input line 152.
+(pdftex.def)             Requested size: 252.84283pt x 160.43826pt.
+
+Overfull \hbox (0.84283pt too wide) in paragraph at lines 152--153
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<img/unity_12cam.png, id=154, 1927.2pt x 1085.05376pt>
+File: img/unity_12cam.png Graphic file (type png)
+<use img/unity_12cam.png>
+Package pdftex.def Info: img/unity_12cam.png  used on input line 161.
+(pdftex.def)             Requested size: 206.39685pt x 116.19397pt.
+[2 <./img/metodologi.png> <./img/alur_kerja.png> <./img/foto_alat.jpg>]
+<img/mainmenu.png, id=168, 681.14474pt x 383.031pt>
+File: img/mainmenu.png Graphic file (type png)
+<use img/mainmenu.png>
+Package pdftex.def Info: img/mainmenu.png  used on input line 173.
+(pdftex.def)             Requested size: 118.6778pt x 66.73335pt.
+<img/mainscene.png, id=169, 1927.2pt x 1084.05pt>
+File: img/mainscene.png Graphic file (type png)
+<use img/mainscene.png>
+Package pdftex.def Info: img/mainscene.png  used on input line 178.
+(pdftex.def)             Requested size: 118.6778pt x 66.74394pt.
+<img/desain_interaksi.png, id=171, 1230.5975pt x 646.415pt>
+File: img/desain_interaksi.png Graphic file (type png)
+<use img/desain_interaksi.png>
+Package pdftex.def Info: img/desain_interaksi.png  used on input line 192.
+(pdftex.def)             Requested size: 252.84283pt x 132.81183pt.
+
+Overfull \hbox (0.84283pt too wide) in paragraph at lines 192--193
+ [][] 
+ []
+
+<img/pola1a.jpg, id=182, 1011.78pt x 1265.47781pt>
+File: img/pola1a.jpg Graphic file (type jpg)
+<use img/pola1a.jpg>
+Package pdftex.def Info: img/pola1a.jpg  used on input line 238.
+(pdftex.def)             Requested size: 56.76031pt x 70.98213pt.
+<img/pola1b.jpg, id=183, 1061.46562pt x 1327.20844pt>
+File: img/pola1b.jpg Graphic file (type jpg)
+<use img/pola1b.jpg>
+Package pdftex.def Info: img/pola1b.jpg  used on input line 243.
+(pdftex.def)             Requested size: 56.76031pt x 70.96141pt.
+<img/pola2.jpg, id=184, 1333.98375pt x 1668.2325pt>
+File: img/pola2.jpg Graphic file (type jpg)
+<use img/pola2.jpg>
+Package pdftex.def Info: img/pola2.jpg  used on input line 248.
+(pdftex.def)             Requested size: 56.76031pt x 70.96893pt.
+<img/pola3a.jpg, id=185, 902.6222pt x 1129.21875pt>
+File: img/pola3a.jpg Graphic file (type jpg)
+<use img/pola3a.jpg>
+Package pdftex.def Info: img/pola3a.jpg  used on input line 253.
+(pdftex.def)             Requested size: 56.76031pt x 71.00676pt.
+<img/pola3b.jpg, id=186, 1138.2525pt x 1422.81563pt>
+File: img/pola3b.jpg Graphic file (type jpg)
+<use img/pola3b.jpg>
+Package pdftex.def Info: img/pola3b.jpg  used on input line 258.
+(pdftex.def)             Requested size: 56.76031pt x 70.94955pt.
+<img/pola3c.jpg, id=187, 1020.81375pt x 1276.77pt>
+File: img/pola3c.jpg Graphic file (type jpg)
+<use img/pola3c.jpg>
+Package pdftex.def Info: img/pola3c.jpg  used on input line 263.
+(pdftex.def)             Requested size: 56.76031pt x 70.9921pt.
+<img/pola4.jpg, id=188, 1334.73656pt x 1667.47969pt>
+File: img/pola4.jpg Graphic file (type jpg)
+<use img/pola4.jpg>
+Package pdftex.def Info: img/pola4.jpg  used on input line 268.
+(pdftex.def)             Requested size: 56.76031pt x 70.88603pt.
+<img/pola5a.jpg, id=189, 914.66719pt x 1144.275pt>
+File: img/pola5a.jpg Graphic file (type jpg)
+<use img/pola5a.jpg>
+Package pdftex.def Info: img/pola5a.jpg  used on input line 273.
+(pdftex.def)             Requested size: 56.76031pt x 70.9932pt.
+<img/pola5b.jpg, id=190, 941.76843pt x 1178.15157pt>
+File: img/pola5b.jpg Graphic file (type jpg)
+<use img/pola5b.jpg>
+Package pdftex.def Info: img/pola5b.jpg  used on input line 279.
+(pdftex.def)             Requested size: 56.76031pt x 70.99165pt.
+<img/pola6.jpg, id=191, 1333.98375pt x 1668.2325pt>
+File: img/pola6.jpg Graphic file (type jpg)
+<use img/pola6.jpg>
+Package pdftex.def Info: img/pola6.jpg  used on input line 285.
+(pdftex.def)             Requested size: 56.76031pt x 70.96893pt.
+<img/pola7.jpg, id=192, 1334.73656pt x 1668.2325pt>
+File: img/pola7.jpg Graphic file (type jpg)
+<use img/pola7.jpg>
+Package pdftex.def Info: img/pola7.jpg  used on input line 291.
+(pdftex.def)             Requested size: 56.76031pt x 70.91803pt.
+<img/pola8a.jpg, id=193, 1334.73656pt x 1668.2325pt>
+File: img/pola8a.jpg Graphic file (type jpg)
+<use img/pola8a.jpg>
+Package pdftex.def Info: img/pola8a.jpg  used on input line 297.
+(pdftex.def)             Requested size: 56.76031pt x 70.91803pt.
+<img/pola8b.jpg, id=194, 1334.73656pt x 1668.2325pt>
+File: img/pola8b.jpg Graphic file (type jpg)
+<use img/pola8b.jpg>
+Package pdftex.def Info: img/pola8b.jpg  used on input line 303.
+(pdftex.def)             Requested size: 56.76031pt x 70.91803pt.
+<img/pola8c.jpg, id=195, 1334.73656pt x 1668.2325pt>
+File: img/pola8c.jpg Graphic file (type jpg)
+<use img/pola8c.jpg>
+Package pdftex.def Info: img/pola8c.jpg  used on input line 309.
+(pdftex.def)             Requested size: 56.76031pt x 70.91803pt.
+<img/pola8d.jpg, id=196, 1334.73656pt x 1668.2325pt>
+File: img/pola8d.jpg Graphic file (type jpg)
+<use img/pola8d.jpg>
+Package pdftex.def Info: img/pola8d.jpg  used on input line 315.
+(pdftex.def)             Requested size: 56.76031pt x 70.91803pt.
+[3 <./img/desain_visualisasi.png> <./img/unity_12cam.png> <./img/mainmenu.png> 
+<./img/mainscene.png> <./img/desain_interaksi.png>]
+<img/ilusi1.png, id=230, 669.09975pt x 535.40025pt>
+File: img/ilusi1.png Graphic file (type png)
+<use img/ilusi1.png>
+Package pdftex.def Info: img/ilusi1.png  used on input line 347.
+(pdftex.def)             Requested size: 56.76031pt x 45.41446pt.
+<img/ilusi2.png, id=231, 660.66824pt x 528.17325pt>
+File: img/ilusi2.png Graphic file (type png)
+<use img/ilusi2.png>
+Package pdftex.def Info: img/ilusi2.png  used on input line 352.
+(pdftex.def)             Requested size: 56.76031pt x 45.37366pt.
+<img/ilusi3.png, id=232, 660.066pt x 528.17325pt>
+File: img/ilusi3.png Graphic file (type png)
+<use img/ilusi3.png>
+Package pdftex.def Info: img/ilusi3.png  used on input line 357.
+(pdftex.def)             Requested size: 56.76031pt x 45.41394pt.
+<img/ilusi4.png, id=233, 670.30424pt x 536.60475pt>
+File: img/ilusi4.png Graphic file (type png)
+<use img/ilusi4.png>
+Package pdftex.def Info: img/ilusi4.png  used on input line 362.
+(pdftex.def)             Requested size: 56.76031pt x 45.43475pt.
+
+Overfull \hbox (1.24007pt too wide) in paragraph at lines 381--381
+ []|[]| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 392--392
+ []|\OT1/ptm/m/n/8 79.16%| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 392--392
+ []|\OT1/ptm/m/n/8 10.00%| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 392--392
+ []|\OT1/ptm/m/n/8 91.67%| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 392--392
+ []|\OT1/ptm/m/n/8 45.83%| 
+ []
+
+[4 <./img/pola1a.jpg> <./img/pola1b.jpg> <./img/pola2.jpg> <./img/pola3a.jpg> <
+./img/pola3b.jpg> <./img/pola3c.jpg> <./img/pola4.jpg> <./img/pola5a.jpg> <./im
+g/pola5b.jpg> <./img/pola6.jpg> <./img/pola7.jpg> <./img/pola8a.jpg> <./img/pol
+a8b.jpg> <./img/pola8c.jpg> <./img/pola8d.jpg> <./img/ilusi1.png> <./img/ilusi2
+.png> <./img/ilusi3.png> <./img/ilusi4.png>]
+Overfull \hbox (1.24007pt too wide) in paragraph at lines 411--411
+ []|[]| 
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 416--416
+[]|\OT1/ptm/m/n/8 Playing ob-ject an-i-ma-
+ []
+
+
+Overfull \hbox (1.4641pt too wide) in paragraph at lines 422--422
+ []|\OT1/ptm/m/n/8 10.| 
+ []
+
+
+Overfull \hbox (1.4641pt too wide) in paragraph at lines 423--423
+ []|\OT1/ptm/m/n/8 11.| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 425--425
+ []|\OT1/ptm/m/n/8 72.00%| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 425--425
+ []|\OT1/ptm/m/n/8 72.00%| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 425--425
+ []|\OT1/ptm/m/n/8 97.50%| 
+ []
+
+
+Overfull \hbox (4.74713pt too wide) in paragraph at lines 425--425
+ []|\OT1/ptm/m/n/8 90.71%| 
+ []
+
+
+Overfull \hbox (0.62968pt too wide) in paragraph at lines 474--474
+ []|\OT1/ptm/b/n/8 Avg.| 
+ []
+
+
+Overfull \hbox (1.99747pt too wide) in paragraph at lines 474--474
+ []|\OT1/ptm/b/n/8 Min.| 
+ []
+
+
+Overfull \hbox (3.32559pt too wide) in paragraph at lines 474--474
+ []|\OT1/ptm/b/n/8 Max.| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 475--475
+ []|\OT1/ptm/m/n/8 58.12| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 475--475
+ []|\OT1/ptm/m/n/8 22.69| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 475--475
+ []|\OT1/ptm/m/n/8 81.04| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 476--476
+ []|\OT1/ptm/m/n/8 55.81| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 476--476
+ []|\OT1/ptm/m/n/8 24.65| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 476--476
+ []|\OT1/ptm/m/n/8 76.98| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 477--477
+ []|\OT1/ptm/m/n/8 59.12| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 477--477
+ []|\OT1/ptm/m/n/8 25.79| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 477--477
+ []|\OT1/ptm/m/n/8 79.39| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 478--478
+ []|\OT1/ptm/m/n/8 54.84| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 478--478
+ []|\OT1/ptm/m/n/8 24.64| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 478--478
+ []|\OT1/ptm/m/n/8 81.64| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 479--479
+ []|\OT1/ptm/m/n/8 57.93| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 479--479
+ []|\OT1/ptm/m/n/8 24.24| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 479--479
+ []|\OT1/ptm/m/n/8 80.44| 
+ []
+
+
+Overfull \hbox (0.62968pt too wide) in paragraph at lines 490--490
+ []|\OT1/ptm/b/n/8 Avg.| 
+ []
+
+
+Overfull \hbox (1.99747pt too wide) in paragraph at lines 490--490
+ []|\OT1/ptm/b/n/8 Min.| 
+ []
+
+
+Overfull \hbox (3.32559pt too wide) in paragraph at lines 490--490
+ []|\OT1/ptm/b/n/8 Max.| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 491--491
+ []|\OT1/ptm/m/n/8 57.39| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 491--491
+ []|\OT1/ptm/m/n/8 27.56| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 491--491
+ []|\OT1/ptm/m/n/8 96.58| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 492--492
+ []|\OT1/ptm/m/n/8 57.87| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 492--492
+ []|\OT1/ptm/m/n/8 30.48| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 492--492
+ []|\OT1/ptm/m/n/8 88.19| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 493--493
+ []|\OT1/ptm/m/n/8 56.58| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 493--493
+ []|\OT1/ptm/m/n/8 24.00| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 493--493
+ []|\OT1/ptm/m/n/8 91.51| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 494--494
+ []|\OT1/ptm/m/n/8 57.57| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 494--494
+ []|\OT1/ptm/m/n/8 21.64| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 494--494
+ []|\OT1/ptm/m/n/8 88.89| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 495--495
+ []|\OT1/ptm/m/n/8 57.10| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 495--495
+ []|\OT1/ptm/m/n/8 23.11| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 495--495
+ []|\OT1/ptm/m/n/8 86.74| 
+ []
+
+
+Overfull \hbox (0.62968pt too wide) in paragraph at lines 507--507
+ []|\OT1/ptm/b/n/8 Avg.| 
+ []
+
+
+Overfull \hbox (1.99747pt too wide) in paragraph at lines 507--507
+ []|\OT1/ptm/b/n/8 Min.| 
+ []
+
+
+Overfull \hbox (3.32559pt too wide) in paragraph at lines 507--507
+ []|\OT1/ptm/b/n/8 Max.| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 508--508
+ []|\OT1/ptm/m/n/8 45.73| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 508--508
+ []|\OT1/ptm/m/n/8 11.71| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 508--508
+ []|\OT1/ptm/m/n/8 66.95| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 509--509
+ []|\OT1/ptm/m/n/8 36.56| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 509--509
+ []|\OT1/ptm/m/n/8 11.20| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 509--509
+ []|\OT1/ptm/m/n/8 64.17| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 510--510
+ []|\OT1/ptm/m/n/8 43.82| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 510--510
+ []|\OT1/ptm/m/n/8 11.54| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 510--510
+ []|\OT1/ptm/m/n/8 65.86| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 511--511
+ []|\OT1/ptm/m/n/8 39.51| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 511--511
+ []|\OT1/ptm/m/n/8 10.05| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 511--511
+ []|\OT1/ptm/m/n/8 63.39| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 512--512
+ []|\OT1/ptm/m/n/8 38.27| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 512--512
+ []|\OT1/ptm/m/n/8 10.29| 
+ []
+
+
+Overfull \hbox (3.77364pt too wide) in paragraph at lines 512--512
+ []|\OT1/ptm/m/n/8 61.50| 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 466--515
+[] 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 553--553
+ []|\OT1/ptm/m/n/8 88.0%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 553--553
+ []|\OT1/ptm/m/n/8 72.0%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 553--553
+ []|\OT1/ptm/m/n/8 88.0%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 553--553
+ []|\OT1/ptm/m/n/8 87.0%| 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 571--571
+ []|\OT1/ptm/m/n/8 37.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 571--571
+ []|\OT1/ptm/m/n/8 62.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 572--572
+ []|\OT1/ptm/m/n/8 32.8%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 572--572
+ []|\OT1/ptm/m/n/8 67.2%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 573--573
+ []|\OT1/ptm/m/n/8 39.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 573--573
+ []|\OT1/ptm/m/n/8 60.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 574--574
+ []|\OT1/ptm/m/n/8 29.5%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 574--574
+ []|\OT1/ptm/m/n/8 55.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 575--575
+ []|\OT1/ptm/m/n/8 45.9%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 575--575
+ []|\OT1/ptm/m/n/8 29.5%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 576--576
+ []|\OT1/ptm/m/n/8 21.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 576--576
+ []|\OT1/ptm/m/n/8 44.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 576--576
+ []|\OT1/ptm/m/n/8 27.9%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 577--577
+ []|\OT1/ptm/m/n/8 19.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 577--577
+ []|\OT1/ptm/m/n/8 32.8%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 577--577
+ []|\OT1/ptm/m/n/8 37.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 578--578
+ []|\OT1/ptm/m/n/8 34.4%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 578--578
+ []|\OT1/ptm/m/n/8 31.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 579--579
+ []|\OT1/ptm/m/n/8 54.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 579--579
+ []|\OT1/ptm/m/n/8 21.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 580--580
+ []|\OT1/ptm/m/n/8 13.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 580--580
+ []|\OT1/ptm/m/n/8 34.4%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 580--580
+ []|\OT1/ptm/m/n/8 39.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 580--580
+ []|\OT1/ptm/m/n/8 11.5%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 581--581
+ []|\OT1/ptm/m/n/8 49.2%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 582--582
+ []|\OT1/ptm/m/n/8 42.6%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 582--582
+ []|\OT1/ptm/m/n/8 50.8%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 583--583
+ []|\OT1/ptm/m/n/8 16.4%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 583--583
+ []|\OT1/ptm/m/n/8 44.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 583--583
+ []|\OT1/ptm/m/n/8 34.4%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 584--584
+ []|\OT1/ptm/m/n/8 50.8%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 585--585
+ []|\OT1/ptm/m/n/8 11.5%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 585--585
+ []|\OT1/ptm/m/n/8 45.9%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 585--585
+ []|\OT1/ptm/m/n/8 42.6%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 586--586
+ []|\OT1/ptm/m/n/8 14.8%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 586--586
+ []|\OT1/ptm/m/n/8 42.6%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 587--587
+ []|\OT1/ptm/m/n/8 11.5%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 587--587
+ []|\OT1/ptm/m/n/8 37.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 587--587
+ []|\OT1/ptm/m/n/8 49.2%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 588--588
+ []|\OT1/ptm/m/n/8 16.4%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 588--588
+ []|\OT1/ptm/m/n/8 55.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 588--588
+ []|\OT1/ptm/m/n/8 24.6%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 589--589
+ []|\OT1/ptm/m/n/8 32.8%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 589--589
+ []|\OT1/ptm/m/n/8 54.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 590--590
+ []|\OT1/ptm/m/n/8 13.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 590--590
+ []|\OT1/ptm/m/n/8 31.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 590--590
+ []|\OT1/ptm/m/n/8 55.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 591--591
+ []|\OT1/ptm/m/n/8 31.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 592--592
+ []|\OT1/ptm/m/n/8 13.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 592--592
+ []|\OT1/ptm/m/n/8 44.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 593--593
+ []|\OT1/ptm/m/n/8 68.9%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 594--594
+ []|\OT1/ptm/m/n/8 49.2%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 594--594
+ []|\OT1/ptm/m/n/8 42.6%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 595--595
+ []|\OT1/ptm/m/n/8 42.6%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 595--595
+ []|\OT1/ptm/m/n/8 45.9%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 596--596
+ []|\OT1/ptm/m/n/8 42.6%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 596--596
+ []|\OT1/ptm/m/n/8 47.5%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 597--597
+ []|\OT1/ptm/m/n/8 47.5%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 597--597
+ []|\OT1/ptm/m/n/8 34.4%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 598--598
+ []|\OT1/ptm/m/n/8 16.4%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 598--598
+ []|\OT1/ptm/m/n/8 39.3%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 598--598
+ []|\OT1/ptm/m/n/8 36.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 599--599
+ []|\OT1/ptm/m/n/8 37.7%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 599--599
+ []|\OT1/ptm/m/n/8 54.1%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 600--600
+ []|\OT1/ptm/m/n/8 27.9%| 
+ []
+
+
+Overfull \hbox (0.74713pt too wide) in paragraph at lines 600--600
+ []|\OT1/ptm/m/n/8 68.9%| 
+ []
+
+[5] [6] (paper_en.bbl
+Underfull \hbox (badness 4242) in paragraph at lines 37--41
+[]\OT1/ptm/m/n/8 ``Kemendikbud se-but seperem-pat mu-seum di ri
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 37--41
+\OT1/ptm/m/n/8 tak layak,'' Jun 2019. [On-line]. Avail-able: []$https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--41
+\OT1/ptm/m/n/8 / / www . cnnindonesia . com / gaya-[]hidup / 20190622142656-[]2
+75-[]405527 /
+ []
+
+)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 648.
+[7
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 648.
+ (paper_en.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 648.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 648.
+Package rerunfilecheck Info: File `paper_en.out' has not changed.
+(rerunfilecheck)             Checksum: 44C4438C016F85E73F48F62ED0F3799C;2255.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 648.
+ ) 
+Here is how much of TeX's memory you used:
+ 9646 strings out of 481545
+ 151884 string characters out of 2913488
+ 470774 words of memory out of 3000000
+ 24619 multiletter control sequences out of 15000+200000
+ 581193 words of font info for 129 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,19n,42p,1559b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/mocha/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/mocha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><C:/Users/mocha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><C:/Users/mocha/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mocha/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/mocha/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mocha/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/U
+sers/mocha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><
+C:/Users/mocha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.
+pfb><C:/Users/mocha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utm
+r8a.pfb><C:/Users/mocha/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on paper_en.pdf (7 pages, 9536023 bytes).
+PDF statistics:
+ 343 PDF objects out of 1000 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
+ 360 words of extra memory for PDF output out of 10000 (max. 10000000)
+

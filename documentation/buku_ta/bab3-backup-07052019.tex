@@ -1,0 +1,256 @@
+\chapter{DESAIN DAN IMPLEMENTASI SISTEM}
+\vspace{1ex}
+\section{Desain Sistem}
+\vspace{1ex}
+
+Tugas akhir ini merupakan perancangan sebuah sistem berbasis sensor dan aktuator untuk mendukung konsep \textit{smart home} bagi manula. Implementasi sensor dan aktuator pada perancangan ini menggunakan teknologi \textit{Ultrawideband} berbasis \textit{indoor home positioning system}. Implementasi perancangan Tugas Akhir ini dipergunakan untuk melakukan lokalisasi daripada seorang manula, untuk kemudian diolah hasil lokalisasinya menjadi informasi-informasi seperti jarak tempuh dalam satu hari dan kalori yang dibakar oleh manula, yang kemudian dapat dimanfaatkan oleh dokter atau keluarga dalam melakukan penanganan kepada manula.
+\begin{figure} []
+	\captionsetup{justification=centering}
+	\includegraphics[scale=0.4]{img/3-1.png}
+	\caption{Blok Diagram Sistem.}
+	\label{fig: 3_1}
+\end{figure}
+Gambar \ref{fig: 3_1} merupakan representasi secara menyeluruh terhadap cara kerja sistem. Terdapat 4 bagian utama pada sistem ini, yaitu blok sensor, blok aktuator, blok\textit{ gateway}, blok \textit{cloud server} dan user \textit{interface}.
+\subsection{Blok Sensor}
+\vspace{1ex}
+Blok Sensor merupakan bagian dari sistem yang bertugas untuk mengumpulkan data dari pergerakan manula dalam bentuk koordinat dua dimensi. Selain mengumpulkan data, blok sensor juga bertugas untuk mengirim data koordinat yang didapatkan menuju ke blok \textit{gateway}. Blok sensor dibangun dengan menggunakan dua komponen utama, antara lain: lima modul pozyx dan satu board Wemos D1. Empat modul pozyx dikonfigurasi untuk menjadi \textit{anchor} dan satu sisanya diatur agar menjadi \textit{tag}.
+\subsection{Blok Aktuator}
+\vspace{1ex}
+\begin{figure} [!htb]
+	\captionsetup{justification=centering}
+	\includegraphics[scale=0.25]{img/3-2.png}
+	\caption{Skema rangkaian aktuator.}
+	\label{fig:3_2}
+\end{figure}
+Blok aktuator merupakan bagian dari sistem yang bertugas menjadi basis kerja dari fitur otomatisasi pintu. Aktuator akan membuka pintu secara otomatis apabila manula mendekati pintu dalam radius seluas dimana pintu membutuhkan ruang untuk dibuka. Untuk mengetahui apakah manula sedang berada di dekat pintu atau tidak, aktuator harus membaca status pintu yang ada di \textit{server}. Selain kompononen-komponen yang ada pada gambar \ref{fig:3_2}, Aktuator juga membutuhkan sumber daya listrik AC yang dibutuhkan untuk memenuhi kebutuhan sumber listrik dari komponen-komponennya.
+\subsection{Blok \textit{Gateway}}
+\vspace{1ex}
+Blok \textit{gateway} merupakan bagian dari sistem yang bertanggung jawab untuk menghubungkan data-data yang diterima secara lokal oleh blok sensor dengan blok\textit{ cloud server} dan UI. Komponen yang betugas menjadi tugas disini adalah \textit{tag device} yang dikenakan pada manula. Perangkat \textit{tag} terdiri dari 3 komponen utama yaitu: Modul Pozyx, Board Wemos D1, dan sumber daya DC 12V. Sebagaimana direpresentasikan pada gambar \ref{fig:3_3}
+\begin{figure} [!htb]
+	\captionsetup{justification=centering}
+	\includegraphics[scale=0.5]{img/3-3.png}
+	\caption{Blok diagram \textit{tag device}.}
+	\label{fig:3_3}
+\end{figure}
+\textit{Gateway} menghubungkan data lokal yang diperoleh blok sensor dan blok \textit{cloud server} dengan cara komunikasi menggunakan protokol HTTP yang membutuhkan koneksi dari jaringan internet. Dalam perancangan Tugas Akhir ini, sistem ini menggunakan WiFi 802.11, Sehingga dibutuhkan pula adanya \textit{access point} agar sistem \textit{gateway} dapat bekerja.
+\subsection{Blok \textit{Cloud Server} dan \textit{User Interface}}
+
+Blok \textit{cloud server} dan \textit{user interface} merupakan bagian dari sistem yang berperan sebagai media penyimpanan berbasis \textit{cloud}. Data-data yang disimpan adalah data-data yang dikirimkan oleh blok sensor melalui bantuan blok \textit{gateway}. Media penyimpanan berbasis \textit{cloud} ini menggunakan MySQL \textit{database management system}. Selain melakukan penyimpanan data, blok ini juga bertugas untuk melakukan pengolahan berupa komputasi terhadap data-data yang tersimpan, sehingga hasil pengolahan tersebut siap ditampilkan kepada pengguna melalui \textit{user interface} berbasis aplikasi android dalam bentuk informasi kesehatan yang atraktif dan informatif.
+
+\vspace{1ex}
+\section{Alur Kerja}
+\vspace{1ex}
+
+Agar sistem dapat berjalan dengan baik, proses yang dilakukan pada alur kerja harus dilakukan secara \textit{sequence}, sehingga apabila dibutuhkan, proses \textit{debugging} dapat dilakukan dengan tepat dan cepat. Secara keseluruhan, berikut ini merupakan alur kerja dari sistem yang dirancang pada Tugas Akhir ini.
+\subsection{Pemrosesan data pada sistem lokalisasi}
+\vspace{1ex}
+\begin{enumerate}[nolistsep]
+	\item Konfigurasi perangkat \textit{tag} dan \textit{anchor}
+	\item Implementasi algoritma \textit{time of arrival}
+	\item Implementasi algoritma laterasi
+\end{enumerate}
+\subsection{Pemrosesan data pada sistem aktuator}
+\vspace{1ex}
+\subsection{Pemrosesan data pada \textit{gateway}}
+\vspace{1ex}
+\subsection{Pengolahan data pada sistem estimasi \textit{calories expenditures}}
+\vspace{1ex}
+\subsection{Pengolahan data pada sistem \textit{user interface} berbasis aplikasi android}
+\vspace{1ex}
+
+\vspace{1ex}
+\section{Desain \textit{Database}}
+\vspace{1ex}
+
+Perancangan \textit{database} perlu dilakukan agar data-data yang diperlukan oleh sistem dapat tersimpan secara efisien. Pada perancangan tugas akhir ini, dibuat satu \textit{database} dengan nama pozyxapp yang terdiri dari 3 tabel. Gambar 3.4 merupakan representasi isi dari masing-masing tabel dan hubungan antar tabel.
+\begin{figure} [!htb]
+	\captionsetup{justification=centering}
+	\includegraphics[scale=0.5]{img/3-4.png}
+	\caption{Desain \textit{database} pozyxapp.}
+	\label{fig:3_4}
+\end{figure}
+\subsection{Tabel tb\_user}
+\vspace{1ex}
+
+Tabel tb\_user merupakan tabel yang terdiri dari 3 kolom, yaitu ID, uname, dan password. Tabel ini berfungsi menyimpan informasi pengguna sistem yang dikembangkan dalam tugas akhir ini. Pengguna yang dimaksud adalah manula yang mengenakan tag device.
+\begin{table}[]
+	\caption{Informasi pada tb\_user}
+	\label{tab:tb-user}
+	\begin{tabular}{|l|l|p{5cm}|}
+		\hline
+		\textbf{No} & \textbf{Nama kolom} & \textbf{Fungsi} \\ \hline
+		1 & ID & Nomor ID dari manula \\ \hline
+		2 & uname & Username dari akun yang digunakan manula \\ \hline
+		3 & password & Password dari akun yang digunakan manula \\ \hline
+	\end{tabular}
+\end{table}
+\subsection{Tabel tb\_coordinate}
+\vspace{1ex}
+
+Tabel tb\_coordinate adalah tabel yang terdiri dari 6 kolom, yaitu ID, uname, coorx, coory, \textit{added\_at}, \textit{flag}. Secara keseluruhan, fungsi daripada tabel ini adalah untuk menyimpan \textit{raw} data yang diterima sistem dari blok sensor dengan tambahan informasi \textit{timestamp} diterimanya data oleh server MySQL. Terdapat tambahan kolom \textit{flag} yang memiliki fungsi sebagai penanda data, yang nilainya 0 atau 1. Seluruh data yang ditampilkan aplikasi yang mengambil data koordinat dan waktu adalah data pada tb\_coordinate yang memiliki \textit{flag} 1, dimana artinya data-data tersebut adalah data pada hari tersebut. Data dengan \textit{flag} 0 diasumsikan adalah data pada hari sebelumnya. Kolom \textit{flag} digunakan untuk membangun salah satu fitur aplikasi, yaitu histori pengguna atau manula. Jadi ketika ada pergantian hari dari hari A ke hari B, maka seluruh data pada hari A akan diubah \textit{flag} nya menjadi 0.
+\begin{table}[]
+	\caption{Informasi pada tb\_coordinate}
+	\label{tab:tb-coordinate}
+	\begin{tabular}{|l|l|p{5cm}|}
+		\hline
+		\textbf{No} & \textbf{Nama kolom} & \textbf{Fungsi} \\ \hline
+		1 & ID & Nomor ID dari data koordinat \\ \hline
+		2 & uname & \textit{Foreign key} untuk tb\_coordinate \\ \hline
+		3 & coorx & \textit{Raw }data koordinat terhadap sumbu x daripada manula \\ \hline
+		4 & coory & \textit{Raw} data koordinat terhadap sumbu y daripada manula \\ \hline
+		5 & added\_at & \textit{Timestamp} diterimanya \textit{record} data \\ \hline
+		6 & flag & Nilai Boolean sebagai penanda ditampilkan atau tidaknya data \\ \hline
+	\end{tabular}
+\end{table}
+\subsection{Tabel tb\_data}
+\vspace{1ex}
+
+\begin{table}[]
+	\caption{Informasi pada tb\_data}
+	\label{tab:tb_data}
+	\begin{tabular}{|l|l|p{5cm}|}
+		\hline
+		\textbf{No} & \textbf{Nama kolom} & \textbf{Fungsi} \\ \hline
+		1 & uname & Foreign key untuk tb\_data \\ \hline
+		2 & fname & Nama lengkap dari manula \\ \hline
+		3 & bpm & Menampung nilai bpm dari manula \\ \hline
+		4 & calories & Menampung nilai hasil kalkulasi estimasi kalori yang dihabiskan oleh manula. \\ \hline
+		5 & lokasi & Berisi informasi lokasi terkini dari manula \\ \hline
+		6 & door\_status & Menampung informasi pintu mana yang akan dibuka oleh manula \\ \hline
+		7 & jarak & Menampung informasi jarak total yang telah dihabiskan oleh manula pada hari aktif. \\ \hline
+		8 & profil & Direktori foto profil daripada seorang manula. \\ \hline
+	\end{tabular}
+\end{table}
+Tabel terakhir adalah tb\_data. Tabel ini terdiri dari 8 kolom yaitu: uname, fname, bpm, \textit{calories}, lokasi, door\_status, jarak, dan profil. Tabel ini berfungsi sebagai tujuan akhir dari pengolahan yang dilakukan pada \textit{raw} data pada tb\_coordinate oleh sistem. \textit{Foreign key} pada tabel ini adalah kolom uname, dimana sebagai referensinya nilainya diambil pada kolom uname pada tb\_user.
+
+\vspace{1ex}
+\section{Implementasi Sistem Lokalisasi}
+\vspace{1ex}
+
+Lokalisasi merupakan metode yang digunakan untuk menentukan lokasi atau posisi daripada seorang manula pada perancangan Tugas Akhir ini. Gambar \ref{fig:3_5} merupakan \textit{flowchart} dari cara kerja sistem lokalisasi yang diterapkan.
+\begin{figure} [!htb]
+	\captionsetup{justification=centering}
+	\includegraphics[scale=0.65]{img/3-5.jpg}
+	\caption{Proses dalam sistem lokalisasi.}
+	\label{fig:3_5}
+\end{figure}
+
+\subsection{Konfigurasi Perangkat \textit{Tag} dan \textit{Anchor}}
+\vspace{1ex}
+
+Perangkat \textit{tag} merupakan perangkat penanda dalam sistem lokalisasi dimana lokasi koordinat perangkat inilah yang akan diawasi. Perangkat \textit{tag} akan dikenakan oleh manula agar bisa didapatkan posisi terkini dan perpindahan posisi dari manula. Dalam melalukan lokalisasi, perangkat \textit{tag} tidak bisa berdiri sendiri tanpa bantuan dari perangkat lainnya yang dalam konteks yang dimaksud ini adaah perangkat \textit{anchor} atau titik referensi. Perangkat \textit{tag} membutuhkan paling tidak tiga titik referensi untuk dapat melakukan lokalisasi. Oleh karena itu pada perancangan tugas akhir kali ini, 1 modul pozyx dikonfigurasi sebagai \textit{tag}, dan 4 lainnya dikonfigurasi sebagai \textit{anchor} atau titik referensi. Gambar \ref{fig:3_6} merupakan \textit{flowchart} dalam konfigurasi \textit{tag} dan \textit{anchor}
+\begin{figure} [!htb]
+	\captionsetup{justification=centering}
+	\includegraphics[scale=0.65]{img/3-6.jpg}
+	\caption{Proses konfigurasi \textit{tag} dan \textit{anchor}.}
+	\label{fig:3_6}
+\end{figure}
+Penjelasan \textit{flowchart} diatas menggunakan asumsi bahwa draft peta yang digunakan untuk lokalisasi telah diketahui beserta koordinat-koordinat titik referensinya. Setiap perangkat pozyx memiliki id masing-masing. Tabel  merupakan tabel yang merepresentasikan konfigurasi pozyx dan fungsinya dalam sistem lokalisasi ini.
+\begin{table}[]
+	\caption{Konfigurasi pozyx berdasarkan ID dan koordinatnya}
+	\label{tab:pozyx}
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{No} & \textbf{ID Pozyx} & \textbf{Fungsi} & \textbf{Koordinat} \\ \hline
+		1 & 0x677B & \textit{Tag} & x,y \\ \hline
+		2 & 0x6764 & \textit{Anchor} & x1,y1 \\ \hline
+		3 & 0x6772 & \textit{Anchor} & x2,y2 \\ \hline
+		4 & 0x6722 & \textit{Anchor} & x3,y3 \\ \hline
+		5 & 0x671D & \textit{Anchor} & x4,y4 \\ \hline
+	\end{tabular}
+\end{table}
+Dalam konfigurasi perangkat \textit{tag} dan \textit{anchor} terutama \textit{anchor}, ada beberapa hal yang harus diperhatikan mengingat perangkat pozyx menggunakan gelombang radio sebagai media komunikasinya.
+\begin{enumerate}[nolistsep]
+	\item Semakin tinggi posisi \textit{anchor}, maka akan semakin bagus untuk lokalisasi karena semakin sedikit penghalang.
+	\item Letakkan \textit{anchor} secara vertikal dengan antena radio menghadap keatas.
+	\item Jauhkan \textit{anchor} dari benda-benda bermaterial metal, karena metal dapat membuat pantulan sinyal yang cukup signifikan.
+\end{enumerate}
+
+\subsection{Implementasi Algoritma Laterasi}
+\vspace{1ex}
+
+Implementasi algoritma laterasi dilakukan setelah sistem mendapatkan informasi jarak antara tag dengan masing-masing anchor dari proses algoritma \textit{Time of arrival}. Pada perancangan tugas akhir ini, dilakukan implementasi algoritma laterasi dengan menggunakan 4 titik referensi, yang mana menjadi lebih umum disebut dengan istilah algortima multilaterasi. Hasil dari implementasi algoritma ini adalah berupa koordinat posisi dari tag yang dibawa oleh manula. Besar nilai koordinatnya relatif terhadap koodinat dari masing-masing titik referensi dan jarak dari masing-masing titik referensi ke tag. Gambar \ref{fig:3_7} merupakan desain lokalisasi untuk dapat diimplementasikan algoritma laterasi.
+\begin{figure} [!htb]
+	\captionsetup{justification=centering}
+	\includegraphics[scale=0.53]{img/3-7.png}
+	\caption{Desain implementasi sistem lokalisasi.}
+	\label{fig:3_7}
+\end{figure}
+Garis tebal berwarna hitam pada gambar \ref{fig:3_7} merupakan penghalang berupa tembok partisi dengan material triplek, hal ini dibutuhkan untuk mensimulasikan kondisi sebenarnya dimana dalam sebuah rumah terutama di bagian dalam pasti terdapat penghalang. Tabel \ref{tab:lokalisasi} berisi contoh informasi dan data yang dibutuhkan untuk mengimplementasikan algoritma laterasi pada suatu posisi tag.
+\begin{table}[]
+	\caption{Inisialiasi anchor}
+	\label{tab:lokalisasi}
+	\begin{tabular}{|l|l|l|l|l|l|}
+		\hline
+		\multirow{2}{*}{\textbf{No}} & \multirow{2}{*}{\textbf{ID Pozyx}} & \multicolumn{3}{c|}{\textbf{Koordinat (mm)}} & \multirow{2}{*}{\textbf{Jarak dengan tag(mm)}} \\ \cline{3-5}
+		&  & \multicolumn{1}{c|}{\textbf{X}} & \multicolumn{1}{c|}{\textbf{Y}} & \multicolumn{1}{c|}{\textbf{Z}} &  \\ \hline
+		1 & 0x6764 & 0 & 0 & 1700 & 2400 \\ \hline
+		2 & 0x6772 & 0 & 5600 & 1700 & 1200 \\ \hline
+		3 & 0x6722 & 7480 & 5600 & 1700 & 3500 \\ \hline
+		4 & 0x671D & 7480 & 0 & 1700 & 4000 \\ \hline
+	\end{tabular}
+\end{table}
+Setelah didapatkan semua informasi dan data yang dibutuhkan, maka algoritma laterasi siap untuk diimplementasikan dengan menggunakan persamaan \ref{laterasi}.  Berikut ini merupakan contoh perhitungan estimasi posisi dari tag dengan menggunakan data dan informasi pada tabel \ref{tab:lokalisasi}.
+ 
+\[ 
+	2\begin{bmatrix}
+	(x_{1}-x_{4})&(y_{1}-y_{4}) \\
+	(x_{2}-x_{n})&(y_{2}-y_{4}) \\
+	(x_{3}-x_{n})&(y_{3}-y_{4}) \\
+	\end{bmatrix}
+	\begin{bmatrix}
+	x \\
+	y \\
+	\end{bmatrix}
+	=\begin{bmatrix}
+	x_1^2-x_4^2+y_1^2-y_4^2+d_4^2-d_1^2 \\
+	x_2^2-x_4^2+y_2^2-y_4^2+d_4^2-d_2^2 \\
+	x_3^2-x_4^2+y_3^2-y_4^2+d_4^2-d_3^2 \\	
+	\end{bmatrix}
+\]
+\vspace{1ex}
+\[
+	\begin{bmatrix}
+	-14960&0 \\
+	-14960&11200 \\
+	0&11200\\
+	\end{bmatrix}
+	\begin{bmatrix}
+	x \\
+	y \\
+	\end{bmatrix}
+	=\begin{bmatrix}
+	55950400+0+10240000\\
+	55950+31360000+14560000\\
+	0+31360000+3750000\\
+	\end{bmatrix}
+\]
+\vspace{1ex}
+\[
+\begin{bmatrix}
+\label{matrikslaterasi}
+-14960x \\
+-14960x + 11200y \\
+11200y\\
+\end{bmatrix}
+=\begin{bmatrix}
+66190400\\
+101870400\\
+35110000\\
+\end{bmatrix}
+\]
+
+Berdasarkan operasi matriks pada matriks \ref{matrikslaterasi}, maka didapatkan 3 persamaan sebagai berikut ini. 
+\begin{equation}
+\label{eq:p1}
+-14960x = 66190400
+\end{equation}
+\begin{equation}
+\label{eq:p2}
+-14960x + 11200y = 101870400
+\end{equation}
+\begin{equation}
+\label{eq:p3}
+11200y = 35110000
+\end{equation}
+Koordinat daripada tag yang dicari dapat ditemukan dengan menggunakan metode subtitusi pada persamaan \ref{eq:p1} dan persamaan \ref{eq:p3}, yang mana akhirnya akan didapatkan nilai estimasi dari posisi tag berdasarkan titik koordinatnya yaitu \textbf{(x= 3134,8 mm, y= -4424,5 mm)}.

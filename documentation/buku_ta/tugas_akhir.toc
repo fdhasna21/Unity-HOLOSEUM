@@ -1,0 +1,70 @@
+\babel@toc {indonesian}{}
+\contentsline {chapter}{ABSTRAK}{xi}{section*.1}%
+\contentsline {chapter}{\textit {ABSTRACT}}{xiii}{section*.2}%
+\contentsline {chapter}{KATA PENGANTAR}{xv}{section*.3}%
+\contentsline {chapter}{DAFTAR ISI}{xvii}{section*.4}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xxi}{section*.6}%
+\contentsline {chapter}{DAFTAR TABEL}{xxiii}{section*.8}%
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Permasalahan}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Tujuan}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Batasan Masalah}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Sistematika Penulisan}{3}{section.1.5}%
+\contentsline {chapter}{\numberline {2}TINJAUAN PUSTAKA}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}\textit {Related Researches}}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Proyeksi Interaktif Objek Hologram 3D menggunakan \textit {Aerial Projection}}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Pembuatan Dataset \textit {Hand Gesture} menggunakan \textit {Leap Motion}}{5}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Faktor-faktor yang Mempengaruhi \textit {Interactive 3D Holographic Projection System} untuk \textit {Experiential Learning}}{6}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Visualisasi Objek 3D}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Proyeksi Hologram}{8}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Piramida 1 Sisi}{10}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Piramida 3 Sisi}{10}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Piramida 4 Sisi}{11}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}\textit {Leap Motion Controller}}{12}{section.2.4}%
+\contentsline {chapter}{\numberline {3}DESAIN DAN IMPLEMENTASI SISTEM}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Gambaran Umum}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Desain Sistem}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Desain \textit {Storyboard}}{17}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Desain Setting Perangkat}{18}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Desain \textit {Pyramid Hologram}}{20}{subsubsection.3.2.2.1}%
+\contentsline {subsection}{\numberline {3.2.3}Desain Sistem Visualisasi}{22}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Desain Sistem Interaksi}{24}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Alur Implementasi Sistem}{27}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Implementasi Setting Perangkat}{28}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Implementasi Sistem Visualisasi}{29}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Penyesuaian Objek Hologram}{29}{subsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.1.1}Penyesuaian Titik Poros Objek}{32}{subsubsection.3.5.1.1}%
+\contentsline {subsubsection}{\numberline {3.5.1.2}Pengaturan Nilai Standard Objek}{34}{subsubsection.3.5.1.2}%
+\contentsline {subsubsection}{\numberline {3.5.1.3}Penyesuaian \textit {Workspace Area} Objek}{35}{subsubsection.3.5.1.3}%
+\contentsline {subsection}{\numberline {3.5.2}Rekonstruksi \textit {Hologram Video}}{36}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Realisasi \textit {User Interface} Aplikasi}{38}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Implementasi Sistem Interaksi}{41}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Kalibrasi Leap Motion}{42}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Pendeteksian Pola Tangan}{43}{subsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.2.1}Algoritma Eksplorasi Objek}{46}{subsubsection.3.6.2.1}%
+\contentsline {subsubsection}{\numberline {3.6.2.2}Algoritma \textit {Zoom Object}}{48}{subsubsection.3.6.2.2}%
+\contentsline {subsubsection}{\numberline {3.6.2.3}Algoritma Aktivasi Animasi Objek}{50}{subsubsection.3.6.2.3}%
+\contentsline {subsubsection}{\numberline {3.6.2.4}Algoritma \textit {Reset to Default}}{51}{subsubsection.3.6.2.4}%
+\contentsline {subsubsection}{\numberline {3.6.2.5}Algoritma Pergantian Objek}{52}{subsubsection.3.6.2.5}%
+\contentsline {subsubsection}{\numberline {3.6.2.6}Algoritma Menampilkan Menu \textit {Help}}{53}{subsubsection.3.6.2.6}%
+\contentsline {subsubsection}{\numberline {3.6.2.7}Algoritma Menampilkan \textit {Main Menu}}{54}{subsubsection.3.6.2.7}%
+\contentsline {subsubsection}{\numberline {3.6.2.8}Algoritma Membatalkan atau Menyetujui Pilihan}{56}{subsubsection.3.6.2.8}%
+\contentsline {chapter}{\numberline {4}PENGUJIAN DAN ANALISIS}{59}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Pengujian Kebutuhan Sistem}{60}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Pengujian Penyajian Objek Hologram}{60}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Pengujian Deteksi Pengindera Tangan}{63}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Pengujian Performansi Sistem}{67}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.1}Pengujian Performansi pada PC 1}{68}{subsubsection.4.1.3.1}%
+\contentsline {subsubsection}{\numberline {4.1.3.2}Pengujian Performansi pada PC 2}{69}{subsubsection.4.1.3.2}%
+\contentsline {subsubsection}{\numberline {4.1.3.3}Pengujian Performansi pada PC 3}{71}{subsubsection.4.1.3.3}%
+\contentsline {section}{\numberline {4.2}Pengujian Kebermanfaatan Sistem}{72}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Pengujian Efektivitas Sistem}{72}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Pengujian Kepuasan Pengguna}{76}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Pengujian \textit {Real Time Response} Sistem}{83}{subsection.4.2.3}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{87}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{87}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{88}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{89}{section*.78}%
+\contentsline {chapter}{LAMPIRAN}{93}{section*.80}%
+\contentsline {chapter}{BIOGRAFI PENULIS}{113}{section*.108}%

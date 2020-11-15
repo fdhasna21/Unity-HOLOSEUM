@@ -1,0 +1,129 @@
+\begin{thebibliography}{10}
+
+\bibitem{sundus2018impact}
+M.~Sundus, ``The Impact of Using Gadgets on Children,'' {\em Journal of
+  Depression and Anxiety}, vol.~7, no.~1, pp.~1--3, 2018.
+
+\bibitem{wirawan_2018}
+A.~R. Wirawan, ``Rendahnya Minat Belajar Sejarah di Sekolah,'' Nov 2018.
+
+\bibitem{kemendikbud_2019}
+``Kemendikbud Sebut Seperempat Museum di RI Tak Layak,'' Jun 2019.
+
+\bibitem{uvmap}
+u.~Siwy, ``Flowers Pattern Spring Green,'' Mar 2019.
+
+\bibitem{sheng2012study}
+C.-W. Sheng and M.-C. Chen, ``A Study of Experience Expectations of Museum
+  Visitors,'' {\em Tourism Management}, vol.~33, no.~1, pp.~53--60, 2012.
+
+\bibitem{mahfud2016interactive}
+J.~Mahfud and T.~Matsumaru, ``Interactive Aerial Projection of 3D Hologram
+  Object,'' in {\em 2016 IEEE International Conference on Robotics and
+  Biomimetics (ROBIO)}, pp.~1930--1935, IEEE, 2016.
+
+\bibitem{ameur2016comprehensive}
+S.~Ameur, A.~B. Khalifa, and M.~S. Bouhlel, ``A Comprehensive Leap Motion
+  Database for Hand Gesture Recognition,'' in {\em 2016 7th International
+  Conference on Sciences of Electronics, Technologies of Information and
+  Telecommunications (SETIT)}, pp.~514--519, IEEE, 2016.
+
+\bibitem{huang2018factors}
+H.~Huang, C.-w. Chen, and Y.-w. Hsieh, ``Factors Affecting Usability of
+  Interactive 3D Holographic Projection System for Experiential Learning,'' in
+  {\em International Conference on Learning and Collaboration Technologies},
+  pp.~104--116, Springer, 2018.
+
+\bibitem{akshay_2015}
+A.~Ratan and R.~Gatiyala, ``Holography Working Principle and Applications,''
+  Apr 2015.
+
+\bibitem{vishnu2017hologram}
+T.~Vishnu, C.~Balamurugan, and C.~T. Roy, ``Hologram based Three Dimensional
+  Projection,'' {\em International Journal of Engineering Technology Science
+  and Research, ISSN}, pp.~2394--3386, 2017.
+
+\bibitem{hologrampyramid}
+``Hologram Pyramid Technicals.''
+
+\bibitem{fotop1}
+M.~Burrows, May 2018.
+
+\bibitem{videop1}
+H.~V. Channel, Aug 2015.
+
+\bibitem{ironman}
+3DTVTech, ``Hologram Pyramid 3D,'' May 2014.
+
+\bibitem{fotop3}
+D.~Mind, May 2019.
+
+\bibitem{videop3}
+H.~Collection, Sep 2015.
+
+\bibitem{tutorialpiramid}
+O.~G. Energy, ``DIY 3D Hologram Pyramid.''
+
+\bibitem{fotop4}
+A.~Technologies, Jan 2018.
+
+\bibitem{videop4}
+PressToPlay, ``Butterfly Hologram Video HD,'' Apr 2016.
+
+\bibitem{naidu2016hand}
+C.~Naidu and A.~Ghotkar, ``Hand Gesture Recognition using Leap Motion
+  Controller,'' {\em International Journal of Science and Research (IJSR)},
+  vol.~5, pp.~436--441, 2016.
+
+\bibitem{leapmotion_ds}
+``Leap Motion Controller.''
+
+\bibitem{leapmotionblog}
+A.~Colgan, ``How does the Leap Motion Controller Work?,'' Aug 2014.
+
+\bibitem{leapmotiondev}
+L.~M. Developer, ``Coordinate Systems,'' Jun 2014.
+
+\bibitem{handaxe}
+T.~R.~L. of~Archaeology, ``Acheulean Hand Axe (513a1),'' Feb 2018.
+
+\bibitem{primeval}
+YouSaveTime, ``Primeval Axe,'' Nov 2019.
+
+\bibitem{buddha_lowpoly}
+L.~Norgeot, ``Lowpoly Buddhas,'' Nov 2019.
+
+\bibitem{ganesha}
+SDRN, ``Little Ganesh Wood Statue,'' May 2018.
+
+\bibitem{brasslamp}
+F.~Coldesina, ``Lamp Brass,'' Aug 2019.
+
+\bibitem{ceramicpot}
+G.~P, ``Japanese Ceramic Brasero,'' Apr 2020.
+
+\bibitem{typewriter}
+Sudreyskr, ``Typewriter,'' 2019.
+
+\bibitem{luo2001software}
+L.~Luo, ``Software Testing Techniques,'' {\em Institute for Software Research
+  International Carnegie Mellon University Pittsburgh, PA}, vol.~15232,
+  no.~1-19, p.~19, 2001.
+
+\bibitem{sawant2012software}
+A.~A. Sawant, P.~H. Bari, and P.~Chawan, ``Software Testing Techniques and
+  Strategies,'' {\em International Journal of Engineering Research and
+  Applications (IJERA)}, vol.~2, no.~3, pp.~980--986, 2012.
+
+\bibitem{hologramshader}
+A.~Duboc, ``Hologramshader,'' 2014.
+
+\bibitem{graphy}
+M.~Tayx, ``Ultimate FPS Counter Stats Monitor \& Debugger,'' Jun 2019.
+
+\bibitem{al2005use}
+H.~Al-Kilidar, K.~Cox, and B.~Kitchenham, ``The Use and Usefulness of The
+  ISO/IEC 9126 Quality Standard,'' in {\em 2005 International Symposium on
+  Empirical Software Engineering, 2005.}, pp.~7--pp, IEEE, 2005.
+
+\end{thebibliography}

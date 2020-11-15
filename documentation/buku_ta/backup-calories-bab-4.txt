@@ -1,0 +1,56 @@
+\subsection{Kalkulasi estimasi \textit{calories expenditures} dari manula}
+\vspace{1ex}
+Informasi yang diekstraksi dari data koordinat yang telah difiltrasi menggunakan \textit{average filter} selain jarak tempuh manula adalah kalori yang dihabiskan oleh manula. Pada perancangan tugas akhir ini, metode kalkulasi MET digunakan untuk mendapatkan informasi tersebut. MET merupakan nilai indeks yang merepresentasikan kekuatan dari sebuah aktivitas fisik. Informasi mengenai jenis-jenis besar nilai MET dapat dilihat pada tabel \ref{tab:klasifikasi met}. Kalkulasi estimasi kalori yang dihabiskan oleh manula menggunakan metode MET diimplementasikan dengan menggunakan formula \ref{eq:metformula}. Berdasarkan formula tersebut, maka untuk dapat melakukan kalkulasi estimasi kalori yang dihabiskan oleh manula dibutuhkan beberapa data yang akan menjadi parameter penentu besar nilai estimasi kalorinya.
+\begin{enumerate}[nolistsep]
+	\item Berat badan
+	
+	Data yang pertama adalah berat badan manula. Oleh karena pada sistem ini tidak digunakan atau dikembangkan alat yang mampu mengetahui berat badan manula secara otomatis, maka untuk nilai berat daripada manula telah didefinisikan di awal implementasi sistem estimasi ini.
+	\vspace{1ex}
+	
+	\item Durasi Aktivitas
+	
+	Parameter kedua ialah durasi aktivitas yang dilakukan. Definisi dari durasi aktivitas ini adalah waktu yang dibutuhkan oleh manula dalam berpindah dari posisi satu ke posisi dua dan seterusnya. Untuk dapat mengetahui durasi aktivitas yang dilakukan, maka dibutuhkan waktu terekamnya data koordinat yang telah difiltrasi tersebut yang ada di \textit{database server}. Data mengenai durasi aktivitas yang dilakukan oleh manula dapat diketahui melalui array data yang disimpan pada proses filtrasi sebagaimana dijelaskan melalui tabel \ref{tab:avg-filter}. Dengan memanfaatkan atribut waktu jam, menit dan detik yang berada pada array tersebut, maka dapat dilakukan perhitungan durasi aktivitas yang dilakukan. Gambar \ref{fig:met-flowchart} merupakan representasi alur kerja sistem untuk mendapatkan nilai durasi aktivitas.
+	\begin{figure} [!htb]
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.20]{img/met-flowchart.png}
+		\caption{\textit{Flowchart} implementasi \textit{average filter}.}
+		\label{fig:met-flowchart}
+	\end{figure}
+	\vspace{1ex}
+	
+	\item Indeks MET
+	
+	Nilai indeks ini merupakan representasi kekuatan yang digunakan oleh manula dalam beraktivitas. Semakin berat aktivitasnya maka semakin besar pula nilai MET nya. Pada perancangan tugas akhir ini, diasumsikan aktivitas yang dilakukan oleh manula hanya berjalan saja dengan jenis variabel kecepatan berjalannya. Sedangkan untuk dapat menghitung kecepatan jalan dari manula, maka digunakan persamaan \ref{eq:velocity}, Dengan \textit{\textbf{V}} merupakan kecepatan jalan dari manula dengan satuan m/s. Sedangkan \textit{\textbf{S}} adalah jarak total yang ditempuh manula meter dan \textit{\textbf{t}} merupakan total durasi waktu yang digunakan manula untuk melakukan perpindahan tersebut dengan satuan \textit{second}. Kecepatan jalan dari manula kemudian akan menentukan besarnya nilai MET yang dijadikan salah satu faktor kalkulasi estimasi kalori yang dihabiskan oleh manula.
+	\vspace{1ex}
+\end{enumerate}
+Untuk memaparkan implementasi sistem ini secara lebih lanjut, maka dibuatlah contoh perhitungan estimasi kalori yang dihabiskan oleh manula apabila diketahui sebuah array data yang berisi informasi sebagaimana seperti pada tabel \ref{tab:my-met}.
+\begin{table}[]
+	\caption{Sampel informasi pada array}
+	\label{tab:my-met}
+	\begin{tabular}{|r|r|r|r|r|r|}
+		\hline
+		\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{Data array ke -}}} & \multicolumn{2}{c|}{\textbf{Koordinat (mm)}} & \multicolumn{3}{c|}{\textbf{Waktu}} \\ \cline{2-6} 
+		\multicolumn{1}{|c|}{} & \multicolumn{1}{c|}{\textbf{x}} & \multicolumn{1}{c|}{\textbf{y}} & \multicolumn{1}{c|}{\textbf{detik}} & \multicolumn{1}{c|}{\textbf{menit}} & \multicolumn{1}{c|}{\textbf{jam}} \\ \hline
+		1 & 1.536,278 & 759,667 & 36 & 42 & 11 \\ \hline
+		2 & 1.355,511 & 775,933 & 40 & 42 & 11 \\ \hline
+	\end{tabular}
+\end{table}
+Dalam rangka mengimplementasikan sistem ini data pertama yang digunakan adalah data berat badan dari manula. Data ini merupakan data yang bersifat tetap, artinya nilainya tidak dipengaruhi kinerja dari sistem. Pada contoh perhitungan ini akan digunakan nilai\textbf{ 60kg}. 
+
+Data selanjutnya ialah durasi waktu yang digunakan manula untuk beraktivitas(jalan kaki). Data ini dapat diperoleh dengan cara mengurangi waktu pada titik kedua dengan waktu pada titik pertama, kemudian dirubah ke dalam satuan detik. Berikut merupakan contohnya
+\begin{align*}
+durasi waktu &= ((11-11)*3.600) + ((42-42)*60) + (40-36)\\
+durasi waktu &= (0*3.600) + (0*60) + (4)\\
+durasi waktu &= 4
+\end{align*}
+Sehingga dapat disimpulkan apabila diketahui perpindahan posisi sebagaimana seperti pada tabel \ref{tab:my-met}, maka durasi waktu aktivitasnya adalah \textbf{4 s}.
+
+Data terakhir didapatkan dengan menentukan nilai indeks MET berdasarkan kecepatan berjalan dari manula. Untuk mendapatkan nilai kecepatan berjalan manula, maka dibutuhkan durasi waktu aktivitas dan jarak tempuh aktivitas. Karena durasi waktu aktivitas sudah diketahui dengan menggunakan data pada parameter sebelumnya, maka yang harus dicari selanjutnya ialah jarak tempuh aktivitas. Jarak tempuh aktivitas dapat dikalkulasi dengan menggunakan metode yang sama seperti pada sub bab \ref{subsec-euclidean}. Sehingga berdasarkan informasi pada tabel \ref{tab:my-met}, maka jarak tempuh aktivitas dari manula adalah sebesar \textbf{0,181 m}. Setelah kedua data tersebut, maka kecepatan berjalan manula dapat dihitung menggunakan persamaan \ref{eq:velocity} dengan hasil akhir kecepatannya adalah \textbf{0,0452 m/s} yang mana berdasarkan tabel \ref{tab:klasifikasi met} tergolong dengan \textbf{nilai MET sebesar 3}.
+
+Setelah didapatkan semua parameter perhitungannya, maka sekarang dapat dilakukan kalkulasi estimasi kalori yang dihabiskan manula.
+\begin{align*}
+Kalori &= 1,05 * 3 * 60 * (4/3.600) \\
+Kalori &= 189 * (4/3.600) \\
+Kalori &= 0,21
+\end{align*}
+Berdasarkan perhitungan diatas, dapat disimpulkan apabila diketahui informasi seperti pada tabel \ref{tab:my-met}, maka besar estimasi kalori yang dihabiskan oleh manula adalah \textbf{0,21 cal}.

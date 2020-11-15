@@ -1,0 +1,32 @@
+\chapter{PENUTUP}
+\vspace{1ex}
+
+\section{Kesimpulan}
+Dari pelaksanaan dan pengujian sistem yang sudah dilakukan, penulis berhasil mengimplementasikan sistem penjejak berbasis \textit{ultrawideband} untuk mendukung \textit{smart home} bagi manula. Sistem penjejak yang berhasil dibangun meliputi, \textit{indoor positioning system} yang digunakan untuk mengetahui posisi koordinat dari manula, sistem otomasi menggunakan aktuator yang digunakan untuk mempermudah aktivitas manula dimana pada tugas akhir ini diambil contoh aktivitas manula dalam membuka dan menutup pintu, dan sistem pemantauan antar-muka berbasis aplikasi android yang dapat digunakan oleh dokter atau anggota keluarga untuk mengawasi aktivitas manula. Kemudian untuk lebih detail dapat ditarik beberapa kesimpulan sebagai berikut:
+\begin{enumerate} [nolistsep]
+	\item Penggunaan algoritma \textit{time of arrival} dalam mendapatkan jarak antara \textit{tag} dan \textit{anchor} saat implmenetasi \textit{indoor positioning system} pada kondisi LOS memiliki akurasi dan jangkauan yang lebih bagus yaitu masing-masing \textit{error} 1,158\% dan 11 meter. Sedangkan saat kondisi NLOS sistem memiliki \textit{error} sebesar 4,914\% dan jangkauan yang lebih pendek yaitu 7 meter. 
+	
+	\item Dalam melakukan \textit{indoor positioning system} untuk mendapatkan posisi dari manula, algoritma laterasi yang digunakan sistem saat kondisi LOS memiliki rata-rata selisih pembacaan sebesar 98,88 mm. Sedangkan saat kondisi NLOS sistem memiliki rata-rata selisih pembacaan koordinat yang lebih besar, yaitu 279,94 mm.
+	
+	\item Metode yang digunakan dalam sistem ini untuk mengirimkan hasil \textit{indoor positioning system} ke blok \textit{database server} memiliki \textit{data rate transfer} yang kurang lebih sama pada saat kondisi LOS maupun NLOS, yaitu sekitar 3 data/detik. 
+	
+	\item Implementasi metode \textit{average filter} pada \textit{data processing system} berhasil menurunkan nilai error secara signifikan dari yang awalnya bernilai 164,39\% menjadi hanya bernilai 1,096\%.
+	
+	\item Sistem aktuator yang dibuat sudah berjalan dengan lancar. Hal ini dibuktikan saat pengujian pada blok aktuator yang memberikan akurasi keberhasilan sebesar 98\%.
+	
+	\item Kualitas dari aplikasi \textit{user interface} yang dibuat pada penelitian ini ditinjau pada dua hal yaitu segi fungsionalitas dan \textit{user experience}. Pengujian fungsionalitas aplikasi \textit{user interface} memiliki tingkat keberhasilan yang optimal yaitu berada pada angka 100\%. Sedangkan tingkat kemudahan penggunaan aplikasi \textit{user interface} memiliki \textit{user experiencee rate} sebesar 92,31\%.
+\end{enumerate}
+\vspace{1ex}
+
+\section{Saran}
+Demi pengembangan lebih lanjut mengenai perancangan tugas akhir ini, disarankan beberapa langkah lanjutan sebagai berikut :
+\begin{enumerate}
+	\item Penggunan \textit{Inertial Measurement Unit} sensor untuk mengklasifikasikan jenis aktivitas yang dilakukan manula berdasarkan gerakan-gerakan dari manula.
+	
+	\item Pembuatan sistem konfigurasi awal \textit{indoor positioning system} berbasis \textit{user interface}.
+	
+	\item Implementasi dengan tambahan sensor yang mampu mendeteksi nilai BPM, yang dapat dimanfaatkan untuk mengestimasi kalori yang dihabiskan oleh manula.
+\end{enumerate}
+
+
+\vspace{1ex}

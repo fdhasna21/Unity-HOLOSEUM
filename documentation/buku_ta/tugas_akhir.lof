@@ -1,0 +1,126 @@
+\babel@toc {indonesian}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Objek sebelum dan setelah\textit {uv mapping}\cite {uvmap}.\relax }}{8}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Cara kerja hologram.\relax }}{9}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Piramida 1 sisi\relax }}{10}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Bentuk piramida 1 sisi\cite {fotop1}.}}}{10}{subfigure.3.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Video untuk piramida 1 sisi\cite {videop1}.}}}{10}{subfigure.3.2}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Piramida 3 sisi\relax }}{11}{figure.caption.14}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Bentuk piramida 3 sisi\cite {fotop3}.}}}{11}{subfigure.4.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Video untuk piramida 3 sisi\cite {videop3}.}}}{11}{subfigure.4.2}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Piramida 4 sisi\relax }}{11}{figure.caption.15}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Bentuk piramida 4 sisi\cite {fotop4}.}}}{11}{subfigure.5.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Video untuk piramida 4 sisi\cite {videop4}.}}}{11}{subfigure.5.2}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Area yang dijangkau Leap Motion.\relax }}{12}{figure.caption.16}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Interaction Area}\cite {leapmotionblog}.}}}{12}{subfigure.6.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Interaction Box}\cite {leapmotiondev}.}}}{12}{subfigure.6.2}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \textit {Hand object elements} pada Leap Motion.\relax }}{13}{figure.caption.17}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gambaran umum penggunaan sistem.\relax }}{15}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Alur kerja penggunaan sistem.\relax }}{16}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Desain setting perangkat.\relax }}{19}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Prinsip \textit {pyramid hologram}.\relax }}{20}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Desain gestur yang membangun sistem interaksi.\relax }}{21}{figure.caption.26}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Perbandingan piramida dan objek hologram. }}}{21}{subfigure.5.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Segitiga piramida awal. }}}{21}{subfigure.5.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Segitiga piramida akhir. }}}{21}{subfigure.5.3}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Alur kerja sistem visualisasi.\relax }}{22}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Tampilan utama kedua monitor sistem visualisasi.\relax }}{23}{figure.caption.28}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tampilan \textit {Display Monitor}. }}}{23}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tampilan \textit {Information Monitor}. }}}{23}{subfigure.7.2}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Desain alur menu aplikasi.\relax }}{24}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Mekanisme \textit {Display Monitor}.\relax }}{24}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Alur kerja sistem interaksi.\relax }}{25}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Desain gestur yang membangun sistem interaksi.\relax }}{26}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Gestur \textit {punch} untuk eksplorasi objek. }}}{26}{subfigure.11.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gestur \textit {pinch} untuk zoom objek. }}}{26}{subfigure.11.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Gestur \textit {gun} untuk mengaktifkan animasi. }}}{26}{subfigure.11.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Gestur \textit {high five} untuk \textit {reset} objek. }}}{26}{subfigure.11.4}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Gestur \textit {thumb up} untuk ganti objek. }}}{26}{subfigure.11.5}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Gestur \textit {upside} untuk menampilkan \textit {Help}. }}}{26}{subfigure.11.6}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Gestur \textit {home} untuk menampilkan \textit {Main Menu}. }}}{26}{subfigure.11.7}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Gestur \textit {thumb up} untuk membatalkan dan menyetujui pilihan. }}}{26}{subfigure.11.8}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Alur implementasi penelitian.\relax }}{27}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Setting perangkat yang dibangun.\relax }}{29}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Objek 3D yang digunakan pada penelitian.\relax }}{30}{figure.caption.35}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Hand Axe}\cite {handaxe}.}}}{30}{subfigure.14.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Primeval Axe}\cite {primeval}.}}}{30}{subfigure.14.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\textit {Buddha Statue}\cite {buddha_lowpoly}.}}}{30}{subfigure.14.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\textit {Ganesha Statue}\cite {ganesha}.}}}{30}{subfigure.14.4}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {\textit {Brass Lamp}\cite {brasslamp}.}}}{30}{subfigure.14.5}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {\textit {Ceramic Pot}\cite {ceramicpot}.}}}{30}{subfigure.14.6}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {\textit {Typewriter}\cite {typewriter}.}}}{30}{subfigure.14.7}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {\textit {Gramophone}.}}}{30}{subfigure.14.8}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Penyesuaian objek pada Autodesk 3ds Max 2017.\relax }}{31}{figure.caption.37}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Objek sebelum modifikasi\cite {buddha_lowpoly}.}}}{31}{subfigure.15.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Objek setelah modifikasi.}}}{31}{subfigure.15.2}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Penyesuaian melalui \textit {collider} dan \textit {rigidbody} pada Unity.\relax }}{32}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Efek pemindahan titik poros objek.\relax }}{33}{figure.caption.39}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Titik poros asli objek pada Autodesk 3ds Max 2017.}}}{33}{subfigure.17.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Titik poros objek baru pada Autodesk 3ds Max 2017.}}}{33}{subfigure.17.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Titik poros asli objek pada Unity.}}}{33}{subfigure.17.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Titik poros objek baru pada Unity.}}}{33}{subfigure.17.4}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Objek dengan titik poros asli pada saat diputar.}}}{33}{subfigure.17.5}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Objek dengan titik poros baru pada saat diputar.}}}{33}{subfigure.17.6}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Pengaturan nilai standard objek pada Unity.\relax }}{35}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Mekanisme pembaruan nilai rotasi, posisi, dan ukuran pada setiap objek.\relax }}{35}{figure.caption.41}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Perubahan posisi dan rotasi.}}}{35}{subfigure.19.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Perubahan ukuran objek.}}}{35}{subfigure.19.2}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Posisi \textit {main camera} terhadap objek di Unity.\relax }}{36}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Pengaturan \textit {viewport} untuk \textit {hologram video}.\relax }}{37}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Tampilan \textit {Main Menu}.\relax }}{39}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Tampilan pada \textit {Main Scene} aplikasi.\relax }}{39}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Tampilan \textit {How to Play}.\relax }}{40}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Tampilan \textit {About}.\relax }}{40}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Tampilan \textit {Exit}.\relax }}{40}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.27}{\ignorespaces \textit {State Diagram} sistem interaksi.\relax }}{41}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Tampilan proses kalibrasi Leap Motion.\relax }}{42}{figure.caption.51}%
+\contentsline {figure}{\numberline {3.29}{\ignorespaces \textit {Device Status} pada Leap Motion Software.\relax }}{43}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Gizmos pada \textit {hand objects}.\relax }}{44}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Gestur tangan untuk interaksi objek hologram.\relax }}{45}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Pola \textit {punch} tangan kiri.}}}{45}{subfigure.31.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Pola \textit {punch} tangan kanan.}}}{45}{subfigure.31.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Pola \textit {pinch} pada kedua tangan.}}}{45}{subfigure.31.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Pola \textit {gun} tangan kiri.}}}{45}{subfigure.31.4}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Pola \textit {gun} pada kedua tangan.}}}{45}{subfigure.31.5}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Pola \textit {gun} tangan kanan.}}}{45}{subfigure.31.6}%
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Pola \textit {high five} pada kedua tangan.}}}{45}{subfigure.31.7}%
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Pola \textit {side thumb} tangan kiri.}}}{45}{subfigure.31.8}%
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {Pola \textit {side thumb} tangan kanan.}}}{45}{subfigure.31.9}%
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Gestur tangan untuk interaksi menu aplikasi.\relax }}{46}{figure.caption.56}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Pola \textit {upside} pada kedua tangan.}}}{46}{subfigure.32.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Pola \textit {home} pada kedua tangan. }}}{46}{subfigure.32.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Pola \textit {thumb down} tangan kiri.}}}{46}{subfigure.32.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Pola \textit {thumb down} tangan kanan.}}}{46}{subfigure.32.4}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Pola \textit {thumb up} tangan kiri.}}}{46}{subfigure.32.5}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Pola \textit {thumb up} tangan kanan.}}}{46}{subfigure.32.6}%
+\contentsline {figure}{\numberline {3.33}{\ignorespaces \textit {Flowchart} algoritma eksplorasi objek.\relax }}{47}{figure.caption.57}%
+\contentsline {figure}{\numberline {3.34}{\ignorespaces \textit {Flowchart} algoritma \textit {zoom object}.\relax }}{49}{figure.caption.58}%
+\contentsline {figure}{\numberline {3.35}{\ignorespaces \textit {Flowchart} algoritma aktivasi animasi objek.\relax }}{51}{figure.caption.59}%
+\contentsline {figure}{\numberline {3.36}{\ignorespaces \textit {Flowchart} algoritma \textit {reset to default}.\relax }}{52}{figure.caption.60}%
+\contentsline {figure}{\numberline {3.37}{\ignorespaces \textit {Flowchart} algoritma pergantian objek.\relax }}{53}{figure.caption.61}%
+\contentsline {figure}{\numberline {3.38}{\ignorespaces \textit {Flowchart} algoritma menampilkan menu \textit {Help}.\relax }}{54}{figure.caption.62}%
+\contentsline {figure}{\numberline {3.39}{\ignorespaces \textit {Flowchart} algoritma menampilkan \textit {Main Menu}.\relax }}{55}{figure.caption.63}%
+\contentsline {figure}{\numberline {3.40}{\ignorespaces \textit {Flowchart} algoritma membatalkan pilihan.\relax }}{56}{figure.caption.64}%
+\contentsline {figure}{\numberline {3.41}{\ignorespaces \textit {Flowchart} algoritma menyetujui pilihan.\relax }}{57}{figure.caption.65}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Efek hologram yang digunakan pada pengujian penyajian objek hologram.\relax }}{61}{figure.caption.66}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Efek Hologram A.}}}{61}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Efek Hologram B.}}}{61}{subfigure.1.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Efek Hologram C.}}}{61}{subfigure.1.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Efek Hologram D.}}}{61}{subfigure.1.4}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Grafik \textit {frame rate} pada \textit {server computer} 1.\relax }}{69}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Grafik \textit {frame rate} pada \textit {server computer} 2.\relax }}{70}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Grafik \textit {frame rate} pada \textit {server computer} 3.\relax }}{71}{figure.caption.75}%
+\addvspace {10\p@ }
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Panduan gestur tangan pada \textit {Main Scene}.}}}{93}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Keterangan informasi pada \textit {Main Scene}.}}}{93}{subfigure.1.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Main Scene} untuk \textit {Hand Axe}.}}}{94}{subfigure.2.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Main Scene} untuk \textit {Primeval Axe}.}}}{94}{subfigure.2.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Main Scene} untuk \textit {Buddha Statue}.}}}{95}{subfigure.3.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Main Scene} untuk \textit {Ganesha Statue}.}}}{95}{subfigure.3.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Main Scene} untuk \textit {Brass Lamp}.}}}{96}{subfigure.4.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Main Scene} untuk \textit {Ceramic Pot}.}}}{96}{subfigure.4.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Main Scene} untuk \textit {Typewriter}.}}}{97}{subfigure.5.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Main Scene} untuk \textit {Gramophone}.}}}{97}{subfigure.5.2}%
